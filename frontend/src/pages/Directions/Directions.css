@@ -1,0 +1,118 @@
+.directions-container {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: var(--white);
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    min-height: calc(100vh - 200px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.directions-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.input-group {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.input-group label {
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+    color: var(--dark-gray);
+}
+
+.input-group input {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    border-radius: var(--border-radius);
+    border: 1px solid #ced4da;
+    box-sizing: border-box;
+}
+
+.input-group input:focus {
+    outline: none;
+    border-color: var(--secondary-color);
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.25);
+}
+
+.suggestions-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: var(--white);
+    border: 1px solid #ced4da;
+    border-top: none;
+    border-radius: 0 0 var(--border-radius) var(--border-radius);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    z-index: 1000;
+    max-height: 220px;
+    overflow-y: auto;
+}
+
+.suggestions-list li {
+    padding: 0.75rem 1rem;
+    cursor: pointer;
+}
+
+.suggestions-list li:hover {
+    background-color: var(--light-gray);
+}
+
+.suggestions-list li:first-child {
+    font-weight: bold;
+    color: var(--primary-color);
+    border-bottom: 1px solid #eee;
+}
+
+.directions-button {
+    padding: 0.75rem 1.5rem;
+    background-color: var(--primary-color);
+    color: var(--white);
+    border: none;
+    border-radius: var(--border-radius);
+    font-size: 1.1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.directions-button:hover {
+    background-color: var(--secondary-color);
+}
+
+.directions-button:disabled {
+    background: #a5b4fc;
+    cursor: not-allowed;
+}
+
+.error-message {
+    text-align: center;
+    color: #b91c1c;
+    background-color: #fee2e2;
+    padding: 0.75rem;
+    border-radius: var(--border-radius);
+    font-weight: 500;
+}
+
+/* --- Responsive --- */
+@media screen and (max-width: 768px) {
+    .directions-container {
+        margin: 1rem;
+        padding: 1.5rem;
+        min-height: auto;
+    }
+}

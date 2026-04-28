@@ -1,0 +1,317 @@
+/* --- Main Container for Department/Faculty Pages --- */
+.department-container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.department-intro {
+    text-align: center;
+    font-size: 1.1rem;
+    color: #6c757d;
+    margin-bottom: 2.5rem;
+}
+
+.back-link {
+    display: inline-block;
+    margin-bottom: 2rem;
+    color: var(--secondary-color);
+    text-decoration: none;
+    font-weight: 500;
+}
+.back-link:hover {
+    text-decoration: underline;
+}
+
+/* --- DepartmentList Page Grid --- */
+.department-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+}
+
+.department-card {
+    background: var(--white);
+    padding: 2rem;
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    text-decoration: none;
+    color: var(--text-color);
+    transition: transform 0.2s, box-shadow 0.2s;
+    border-left: 5px solid var(--primary-color);
+    user-select: none;
+}
+.department-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}
+.department-card h3 {
+    margin-top: 0;
+    color: var(--primary-color);
+}
+.department-card span {
+    font-weight: bold;
+    color: var(--secondary-color);
+    margin-top: 1rem;
+    display: block;
+}
+
+/* --- DepartmentFaculty Page List --- */
+.faculty-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.faculty-list-item {
+    background: var(--white);
+    padding: 1rem 1.5rem;
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    text-decoration: none;
+    color: var(--text-color);
+    transition: background-color 0.2s, transform 0.2s;
+    user-select: none;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.faculty-list-avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.faculty-list-info {
+    flex: 1;
+}
+
+.faculty-list-item:hover {
+    background-color: #f1f3f5;
+    transform: translateX(5px);
+}
+.faculty-list-info h4 {
+    margin: 0 0 0.25rem 0;
+    color: var(--dark-gray);
+}
+.faculty-list-info p {
+    margin: 0;
+    color: #6c757d;
+    font-style: italic;
+}
+
+/* --- FacultyDetail Page Card --- */
+.faculty-detail-card {
+    background: var(--white);
+    padding: 2.5rem;
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    user-select: none;
+}
+
+.faculty-profile-header {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin-bottom: 2rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.faculty-avatar {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border: 4px solid var(--white);
+}
+
+.faculty-profile-titles {
+    display: flex;
+    flex-direction: column;
+}
+
+.faculty-profile-titles h2 {
+    text-align: left;
+    margin: 0 0 0.5rem 0;
+    font-size: 2rem;
+    color: var(--primary-color);
+}
+
+.faculty-profile-titles .faculty-title {
+    font-size: 1.2rem;
+    font-style: italic;
+    color: #6c757d;
+    margin: 0;
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.faculty-info p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+}
+.faculty-info a {
+    color: var(--secondary-color);
+    text-decoration: none;
+}
+.faculty-info a:hover {
+    text-decoration: underline;
+}
+
+/* --- Button Group on Faculty Detail Page --- */
+.button-group {
+    margin-top: 2rem;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.map-button {
+    flex-grow: 1;
+    padding: 0.75rem 1.5rem;
+    background-color: var(--secondary-color);
+    color: var(--white);
+    border: none;
+    border-radius: var(--border-radius);
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    text-align: center;
+}
+.map-button:hover {
+    background-color: var(--primary-color);
+}
+
+.map-button.secondary {
+    background-color: #6c757d;
+    color: var(--white);
+}
+.map-button.secondary:hover {
+    background-color: var(--dark-gray);
+}
+
+/* --- Loading Spinner --- */
+.loading-spinner {
+    border: 4px solid rgba(0, 0, 0, 0.1);
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    border-left-color: var(--primary-color);
+    animation: spin 1s ease infinite;
+    margin: 5rem auto;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* --- Faculty Search Bar --- */
+.faculty-search-container {
+    position: relative;
+    max-width: 500px;
+    margin: 0 auto 2.5rem auto;
+}
+
+.faculty-search-input {
+    width: 100%;
+    padding: 0.8rem 1rem;
+    font-size: 1.1rem;
+    border: 2px solid #ced4da;
+    border-radius: var(--border-radius);
+    outline: none;
+    transition: border-color 0.2s;
+}
+
+.faculty-search-input:focus {
+    border-color: var(--primary-color);
+}
+
+.faculty-search-suggestions {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: var(--white);
+    border: 1px solid #dee2e6;
+    border-radius: var(--border-radius);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    list-style: none;
+    margin: 0.5rem 0 0 0;
+    padding: 0;
+    max-height: 250px;
+    overflow-y: auto;
+    z-index: 10;
+}
+
+.faculty-search-suggestions li {
+    padding: 0.8rem 1rem;
+    cursor: pointer;
+    border-bottom: 1px solid #f1f3f5;
+    transition: background-color 0.2s;
+    text-align: left;
+}
+
+.faculty-search-suggestions li:last-child {
+    border-bottom: none;
+}
+
+.faculty-search-suggestions li:hover {
+    background-color: #f8f9fa;
+}
+
+.faculty-search-suggestions li strong {
+    display: block;
+    color: var(--primary-color);
+}
+
+.faculty-search-suggestions li span {
+    font-size: 0.9rem;
+    color: #6c757d;
+}
+
+/* --- Responsive --- */
+@media screen and (max-width: 768px) {
+    .department-container {
+        padding: 0;
+    }
+
+    .department-container h2 {
+        font-size: 1.6rem;
+        margin-bottom: 1rem;
+    }
+
+    .department-intro {
+        font-size: 0.95rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .department-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    .department-card {
+        padding: 1.25rem;
+    }
+
+    .faculty-detail-card {
+        padding: 1.5rem;
+    }
+
+    .faculty-detail-card h2 {
+        font-size: 1.5rem;
+    }
+
+    .faculty-info p {
+        font-size: 1rem;
+    }
+
+    .button-group {
+        flex-direction: column;
+    }
+}

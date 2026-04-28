@@ -1,0 +1,8 @@
+/* frontend/src/components/Footer/Footer.css */
+.footer {
+    background-color: var(--dark-gray);
+    color: var(--white);
+    text-align: center;
+    padding: 1.5rem;
+    margin-top: auto; /* Pushes footer to the bottom */
+}

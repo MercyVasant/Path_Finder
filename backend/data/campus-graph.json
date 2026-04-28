@@ -1,0 +1,5021 @@
+{
+  "nodes": {
+    "main_rd_0": {
+      "name": "main_rd_0",
+      "coords": [
+        72.5449,
+        23.03416
+      ]
+    },
+    "main_rd_1": {
+      "name": "main_rd_1",
+      "coords": [
+        72.545,
+        23.03416
+      ]
+    },
+    "main_rd_2": {
+      "name": "main_rd_2",
+      "coords": [
+        72.5451,
+        23.03416
+      ]
+    },
+    "main_rd_3": {
+      "name": "main_rd_3",
+      "coords": [
+        72.5452,
+        23.03416
+      ]
+    },
+    "main_rd_4": {
+      "name": "main_rd_4",
+      "coords": [
+        72.5453333,
+        23.03416
+      ]
+    },
+    "main_rd_5": {
+      "name": "main_rd_5",
+      "coords": [
+        72.5454667,
+        23.03416
+      ]
+    },
+    "main_rd_6": {
+      "name": "main_rd_6",
+      "coords": [
+        72.5456,
+        23.03416
+      ]
+    },
+    "main_rd_7": {
+      "name": "main_rd_7",
+      "coords": [
+        72.545725,
+        23.03422
+      ]
+    },
+    "main_rd_8": {
+      "name": "main_rd_8",
+      "coords": [
+        72.54585,
+        23.03428
+      ]
+    },
+    "main_rd_9": {
+      "name": "main_rd_9",
+      "coords": [
+        72.545975,
+        23.03434
+      ]
+    },
+    "main_rd_10": {
+      "name": "main_rd_10",
+      "coords": [
+        72.5461,
+        23.0344
+      ]
+    },
+    "main_rd_11": {
+      "name": "main_rd_11",
+      "coords": [
+        72.5462333,
+        23.0344
+      ]
+    },
+    "main_rd_12": {
+      "name": "main_rd_12",
+      "coords": [
+        72.5463667,
+        23.0344
+      ]
+    },
+    "main_rd_13": {
+      "name": "main_rd_13",
+      "coords": [
+        72.5465,
+        23.0344
+      ]
+    },
+    "main_rd_14": {
+      "name": "main_rd_14",
+      "coords": [
+        72.5466,
+        23.0344
+      ]
+    },
+    "main_rd_15": {
+      "name": "main_rd_15",
+      "coords": [
+        72.5467,
+        23.0344
+      ]
+    },
+    "main_rd_16": {
+      "name": "main_rd_16",
+      "coords": [
+        72.5468,
+        23.0344
+      ]
+    },
+    "main_rd_17": {
+      "name": "main_rd_17",
+      "coords": [
+        72.546925,
+        23.0344
+      ]
+    },
+    "main_rd_18": {
+      "name": "main_rd_18",
+      "coords": [
+        72.54705,
+        23.0344
+      ]
+    },
+    "main_rd_19": {
+      "name": "main_rd_19",
+      "coords": [
+        72.547175,
+        23.0344
+      ]
+    },
+    "main_rd_20": {
+      "name": "main_rd_20",
+      "coords": [
+        72.5473,
+        23.0344
+      ]
+    },
+    "main_rd_21": {
+      "name": "main_rd_21",
+      "coords": [
+        72.5474333,
+        23.0344
+      ]
+    },
+    "main_rd_22": {
+      "name": "main_rd_22",
+      "coords": [
+        72.5475667,
+        23.0344
+      ]
+    },
+    "main_rd_23": {
+      "name": "main_rd_23",
+      "coords": [
+        72.5477,
+        23.0344
+      ]
+    },
+    "main_rd_24": {
+      "name": "main_rd_24",
+      "coords": [
+        72.5478333,
+        23.0343833
+      ]
+    },
+    "main_rd_25": {
+      "name": "main_rd_25",
+      "coords": [
+        72.5479667,
+        23.0343667
+      ]
+    },
+    "main_rd_26": {
+      "name": "main_rd_26",
+      "coords": [
+        72.5481,
+        23.03435
+      ]
+    },
+    "main_rd_27": {
+      "name": "main_rd_27",
+      "coords": [
+        72.5482267,
+        23.0343167
+      ]
+    },
+    "main_rd_28": {
+      "name": "main_rd_28",
+      "coords": [
+        72.5483533,
+        23.0342833
+      ]
+    },
+    "main_rd_29": {
+      "name": "main_rd_29",
+      "coords": [
+        72.54848,
+        23.03425
+      ]
+    },
+    "main_rd_30": {
+      "name": "main_rd_30",
+      "coords": [
+        72.5485867,
+        23.0343
+      ]
+    },
+    "main_rd_31": {
+      "name": "main_rd_31",
+      "coords": [
+        72.5486933,
+        23.03435
+      ]
+    },
+    "main_rd_32": {
+      "name": "main_rd_32",
+      "coords": [
+        72.5488,
+        23.0344
+      ]
+    },
+    "north_rd_0": {
+      "name": "north_rd_0",
+      "coords": [
+        72.5449,
+        23.0355
+      ]
+    },
+    "north_rd_1": {
+      "name": "north_rd_1",
+      "coords": [
+        72.5450333,
+        23.0355067
+      ]
+    },
+    "north_rd_2": {
+      "name": "north_rd_2",
+      "coords": [
+        72.5451667,
+        23.0355133
+      ]
+    },
+    "north_rd_3": {
+      "name": "north_rd_3",
+      "coords": [
+        72.5453,
+        23.03552
+      ]
+    },
+    "north_rd_4": {
+      "name": "north_rd_4",
+      "coords": [
+        72.5454317,
+        23.0355183
+      ]
+    },
+    "north_rd_5": {
+      "name": "north_rd_5",
+      "coords": [
+        72.5455633,
+        23.0355167
+      ]
+    },
+    "north_rd_6": {
+      "name": "north_rd_6",
+      "coords": [
+        72.545695,
+        23.035515
+      ]
+    },
+    "north_rd_7": {
+      "name": "north_rd_7",
+      "coords": [
+        72.5458267,
+        23.0355133
+      ]
+    },
+    "north_rd_8": {
+      "name": "north_rd_8",
+      "coords": [
+        72.5459583,
+        23.0355117
+      ]
+    },
+    "north_rd_9": {
+      "name": "north_rd_9",
+      "coords": [
+        72.54609,
+        23.03551
+      ]
+    },
+    "north_rd_10": {
+      "name": "north_rd_10",
+      "coords": [
+        72.546212,
+        23.035504
+      ]
+    },
+    "north_rd_11": {
+      "name": "north_rd_11",
+      "coords": [
+        72.546334,
+        23.035498
+      ]
+    },
+    "north_rd_12": {
+      "name": "north_rd_12",
+      "coords": [
+        72.546456,
+        23.035492
+      ]
+    },
+    "north_rd_13": {
+      "name": "north_rd_13",
+      "coords": [
+        72.546578,
+        23.035486
+      ]
+    },
+    "north_rd_14": {
+      "name": "north_rd_14",
+      "coords": [
+        72.5467,
+        23.03548
+      ]
+    },
+    "north_rd_15": {
+      "name": "north_rd_15",
+      "coords": [
+        72.546818,
+        23.035478
+      ]
+    },
+    "north_rd_16": {
+      "name": "north_rd_16",
+      "coords": [
+        72.546936,
+        23.035476
+      ]
+    },
+    "north_rd_17": {
+      "name": "north_rd_17",
+      "coords": [
+        72.547054,
+        23.035474
+      ]
+    },
+    "north_rd_18": {
+      "name": "north_rd_18",
+      "coords": [
+        72.547172,
+        23.035472
+      ]
+    },
+    "north_rd_19": {
+      "name": "north_rd_19",
+      "coords": [
+        72.54729,
+        23.03547
+      ]
+    },
+    "north_rd_20": {
+      "name": "north_rd_20",
+      "coords": [
+        72.547415,
+        23.0354383
+      ]
+    },
+    "north_rd_21": {
+      "name": "north_rd_21",
+      "coords": [
+        72.54754,
+        23.0354067
+      ]
+    },
+    "north_rd_22": {
+      "name": "north_rd_22",
+      "coords": [
+        72.547665,
+        23.035375
+      ]
+    },
+    "north_rd_23": {
+      "name": "north_rd_23",
+      "coords": [
+        72.54779,
+        23.0353433
+      ]
+    },
+    "north_rd_24": {
+      "name": "north_rd_24",
+      "coords": [
+        72.547915,
+        23.0353117
+      ]
+    },
+    "north_rd_25": {
+      "name": "north_rd_25",
+      "coords": [
+        72.54804,
+        23.03528
+      ]
+    },
+    "north_rd_26": {
+      "name": "north_rd_26",
+      "coords": [
+        72.548172,
+        23.035264
+      ]
+    },
+    "north_rd_27": {
+      "name": "north_rd_27",
+      "coords": [
+        72.548304,
+        23.035248
+      ]
+    },
+    "north_rd_28": {
+      "name": "north_rd_28",
+      "coords": [
+        72.548436,
+        23.035232
+      ]
+    },
+    "north_rd_29": {
+      "name": "north_rd_29",
+      "coords": [
+        72.548568,
+        23.035216
+      ]
+    },
+    "north_rd_30": {
+      "name": "north_rd_30",
+      "coords": [
+        72.5487,
+        23.0352
+      ]
+    },
+    "hostel_rd_0": {
+      "name": "hostel_rd_0",
+      "coords": [
+        72.54646,
+        23.03224
+      ]
+    },
+    "hostel_rd_1": {
+      "name": "hostel_rd_1",
+      "coords": [
+        72.546545,
+        23.0323175
+      ]
+    },
+    "hostel_rd_2": {
+      "name": "hostel_rd_2",
+      "coords": [
+        72.54663,
+        23.032395
+      ]
+    },
+    "hostel_rd_3": {
+      "name": "hostel_rd_3",
+      "coords": [
+        72.546715,
+        23.0324725
+      ]
+    },
+    "hostel_rd_4": {
+      "name": "hostel_rd_4",
+      "coords": [
+        72.5468,
+        23.03255
+      ]
+    },
+    "hostel_rd_5": {
+      "name": "hostel_rd_5",
+      "coords": [
+        72.5469,
+        23.0325833
+      ]
+    },
+    "hostel_rd_6": {
+      "name": "hostel_rd_6",
+      "coords": [
+        72.547,
+        23.0326167
+      ]
+    },
+    "hostel_rd_7": {
+      "name": "hostel_rd_7",
+      "coords": [
+        72.5471,
+        23.03265
+      ]
+    },
+    "hostel_rd_8": {
+      "name": "hostel_rd_8",
+      "coords": [
+        72.54722,
+        23.0326375
+      ]
+    },
+    "hostel_rd_9": {
+      "name": "hostel_rd_9",
+      "coords": [
+        72.54734,
+        23.032625
+      ]
+    },
+    "hostel_rd_10": {
+      "name": "hostel_rd_10",
+      "coords": [
+        72.54746,
+        23.0326125
+      ]
+    },
+    "hostel_rd_11": {
+      "name": "hostel_rd_11",
+      "coords": [
+        72.54758,
+        23.0326
+      ]
+    },
+    "hostel_rd_12": {
+      "name": "hostel_rd_12",
+      "coords": [
+        72.54772,
+        23.0326
+      ]
+    },
+    "hostel_rd_13": {
+      "name": "hostel_rd_13",
+      "coords": [
+        72.54786,
+        23.0326
+      ]
+    },
+    "hostel_rd_14": {
+      "name": "hostel_rd_14",
+      "coords": [
+        72.548,
+        23.0326
+      ]
+    },
+    "hostel_rd_15": {
+      "name": "hostel_rd_15",
+      "coords": [
+        72.5481125,
+        23.032595
+      ]
+    },
+    "hostel_rd_16": {
+      "name": "hostel_rd_16",
+      "coords": [
+        72.548225,
+        23.03259
+      ]
+    },
+    "hostel_rd_17": {
+      "name": "hostel_rd_17",
+      "coords": [
+        72.5483375,
+        23.032585
+      ]
+    },
+    "hostel_rd_18": {
+      "name": "hostel_rd_18",
+      "coords": [
+        72.54845,
+        23.03258
+      ]
+    },
+    "hostel_rd_19": {
+      "name": "hostel_rd_19",
+      "coords": [
+        72.5485667,
+        23.0325933
+      ]
+    },
+    "hostel_rd_20": {
+      "name": "hostel_rd_20",
+      "coords": [
+        72.5486833,
+        23.0326067
+      ]
+    },
+    "hostel_rd_21": {
+      "name": "hostel_rd_21",
+      "coords": [
+        72.5488,
+        23.03262
+      ]
+    },
+    "ur_spur_0": {
+      "name": "ur_spur_0",
+      "coords": [
+        72.546461,
+        23.032241
+      ]
+    },
+    "ur_spur_1": {
+      "name": "ur_spur_1",
+      "coords": [
+        72.5464805,
+        23.0323155
+      ]
+    },
+    "ur_spur_2": {
+      "name": "ur_spur_2",
+      "coords": [
+        72.5465,
+        23.03239
+      ]
+    },
+    "ur_spur_3": {
+      "name": "ur_spur_3",
+      "coords": [
+        72.546525,
+        23.03247
+      ]
+    },
+    "ur_spur_4": {
+      "name": "ur_spur_4",
+      "coords": [
+        72.54655,
+        23.03255
+      ]
+    },
+    "ur_spur_5": {
+      "name": "ur_spur_5",
+      "coords": [
+        72.546575,
+        23.032615
+      ]
+    },
+    "ur_spur_6": {
+      "name": "ur_spur_6",
+      "coords": [
+        72.5466,
+        23.03268
+      ]
+    },
+    "ur_spur_7": {
+      "name": "ur_spur_7",
+      "coords": [
+        72.546693,
+        23.032719
+      ]
+    },
+    "south_rd_0": {
+      "name": "south_rd_0",
+      "coords": [
+        72.5449,
+        23.03215
+      ]
+    },
+    "south_rd_1": {
+      "name": "south_rd_1",
+      "coords": [
+        72.545025,
+        23.03215
+      ]
+    },
+    "south_rd_2": {
+      "name": "south_rd_2",
+      "coords": [
+        72.54515,
+        23.03215
+      ]
+    },
+    "south_rd_3": {
+      "name": "south_rd_3",
+      "coords": [
+        72.545275,
+        23.03215
+      ]
+    },
+    "south_rd_4": {
+      "name": "south_rd_4",
+      "coords": [
+        72.5454,
+        23.03215
+      ]
+    },
+    "south_rd_5": {
+      "name": "south_rd_5",
+      "coords": [
+        72.54552,
+        23.03215
+      ]
+    },
+    "south_rd_6": {
+      "name": "south_rd_6",
+      "coords": [
+        72.54564,
+        23.03215
+      ]
+    },
+    "south_rd_7": {
+      "name": "south_rd_7",
+      "coords": [
+        72.54576,
+        23.03215
+      ]
+    },
+    "south_rd_8": {
+      "name": "south_rd_8",
+      "coords": [
+        72.54588,
+        23.03215
+      ]
+    },
+    "south_rd_9": {
+      "name": "south_rd_9",
+      "coords": [
+        72.546,
+        23.03215
+      ]
+    },
+    "south_rd_10": {
+      "name": "south_rd_10",
+      "coords": [
+        72.5461125,
+        23.03215
+      ]
+    },
+    "south_rd_11": {
+      "name": "south_rd_11",
+      "coords": [
+        72.546225,
+        23.03215
+      ]
+    },
+    "south_rd_12": {
+      "name": "south_rd_12",
+      "coords": [
+        72.5463375,
+        23.03215
+      ]
+    },
+    "south_rd_13": {
+      "name": "south_rd_13",
+      "coords": [
+        72.54645,
+        23.03215
+      ]
+    },
+    "south_rd_14": {
+      "name": "south_rd_14",
+      "coords": [
+        72.5465875,
+        23.03215
+      ]
+    },
+    "south_rd_15": {
+      "name": "south_rd_15",
+      "coords": [
+        72.546725,
+        23.03215
+      ]
+    },
+    "south_rd_16": {
+      "name": "south_rd_16",
+      "coords": [
+        72.5468625,
+        23.03215
+      ]
+    },
+    "south_rd_17": {
+      "name": "south_rd_17",
+      "coords": [
+        72.547,
+        23.03215
+      ]
+    },
+    "south_rd_18": {
+      "name": "south_rd_18",
+      "coords": [
+        72.54712,
+        23.03216
+      ]
+    },
+    "south_rd_19": {
+      "name": "south_rd_19",
+      "coords": [
+        72.54724,
+        23.03217
+      ]
+    },
+    "south_rd_20": {
+      "name": "south_rd_20",
+      "coords": [
+        72.54736,
+        23.03218
+      ]
+    },
+    "south_rd_21": {
+      "name": "south_rd_21",
+      "coords": [
+        72.54748,
+        23.03219
+      ]
+    },
+    "south_rd_22": {
+      "name": "south_rd_22",
+      "coords": [
+        72.5476,
+        23.0322
+      ]
+    },
+    "south_rd_23": {
+      "name": "south_rd_23",
+      "coords": [
+        72.5477333,
+        23.0322167
+      ]
+    },
+    "south_rd_24": {
+      "name": "south_rd_24",
+      "coords": [
+        72.5478667,
+        23.0322333
+      ]
+    },
+    "south_rd_25": {
+      "name": "south_rd_25",
+      "coords": [
+        72.548,
+        23.03225
+      ]
+    },
+    "west_rd_0": {
+      "name": "west_rd_0",
+      "coords": [
+        72.5449,
+        23.0319
+      ]
+    },
+    "west_rd_1": {
+      "name": "west_rd_1",
+      "coords": [
+        72.5449,
+        23.032025
+      ]
+    },
+    "west_rd_2": {
+      "name": "west_rd_2",
+      "coords": [
+        72.5449,
+        23.03215
+      ]
+    },
+    "west_rd_3": {
+      "name": "west_rd_3",
+      "coords": [
+        72.54494,
+        23.03226
+      ]
+    },
+    "west_rd_4": {
+      "name": "west_rd_4",
+      "coords": [
+        72.54498,
+        23.03237
+      ]
+    },
+    "west_rd_5": {
+      "name": "west_rd_5",
+      "coords": [
+        72.54502,
+        23.03248
+      ]
+    },
+    "west_rd_6": {
+      "name": "west_rd_6",
+      "coords": [
+        72.54506,
+        23.03259
+      ]
+    },
+    "west_rd_7": {
+      "name": "west_rd_7",
+      "coords": [
+        72.5451,
+        23.0327
+      ]
+    },
+    "west_rd_8": {
+      "name": "west_rd_8",
+      "coords": [
+        72.5451,
+        23.032825
+      ]
+    },
+    "west_rd_9": {
+      "name": "west_rd_9",
+      "coords": [
+        72.5451,
+        23.03295
+      ]
+    },
+    "west_rd_10": {
+      "name": "west_rd_10",
+      "coords": [
+        72.5451,
+        23.033075
+      ]
+    },
+    "west_rd_11": {
+      "name": "west_rd_11",
+      "coords": [
+        72.5451,
+        23.0332
+      ]
+    },
+    "west_rd_12": {
+      "name": "west_rd_12",
+      "coords": [
+        72.5451,
+        23.03332
+      ]
+    },
+    "west_rd_13": {
+      "name": "west_rd_13",
+      "coords": [
+        72.5451,
+        23.03344
+      ]
+    },
+    "west_rd_14": {
+      "name": "west_rd_14",
+      "coords": [
+        72.5451,
+        23.03356
+      ]
+    },
+    "west_rd_15": {
+      "name": "west_rd_15",
+      "coords": [
+        72.5451,
+        23.03368
+      ]
+    },
+    "west_rd_16": {
+      "name": "west_rd_16",
+      "coords": [
+        72.5451,
+        23.0338
+      ]
+    },
+    "west_rd_17": {
+      "name": "west_rd_17",
+      "coords": [
+        72.5450333,
+        23.03392
+      ]
+    },
+    "west_rd_18": {
+      "name": "west_rd_18",
+      "coords": [
+        72.5449667,
+        23.03404
+      ]
+    },
+    "west_rd_19": {
+      "name": "west_rd_19",
+      "coords": [
+        72.5449,
+        23.03416
+      ]
+    },
+    "west_rd_20": {
+      "name": "west_rd_20",
+      "coords": [
+        72.5449,
+        23.03427
+      ]
+    },
+    "west_rd_21": {
+      "name": "west_rd_21",
+      "coords": [
+        72.5449,
+        23.03438
+      ]
+    },
+    "west_rd_22": {
+      "name": "west_rd_22",
+      "coords": [
+        72.5449,
+        23.03449
+      ]
+    },
+    "west_rd_23": {
+      "name": "west_rd_23",
+      "coords": [
+        72.5449,
+        23.0346
+      ]
+    },
+    "west_rd_24": {
+      "name": "west_rd_24",
+      "coords": [
+        72.5449,
+        23.0347333
+      ]
+    },
+    "west_rd_25": {
+      "name": "west_rd_25",
+      "coords": [
+        72.5449,
+        23.0348667
+      ]
+    },
+    "west_rd_26": {
+      "name": "west_rd_26",
+      "coords": [
+        72.5449,
+        23.035
+      ]
+    },
+    "west_rd_27": {
+      "name": "west_rd_27",
+      "coords": [
+        72.5449,
+        23.035125
+      ]
+    },
+    "west_rd_28": {
+      "name": "west_rd_28",
+      "coords": [
+        72.5449,
+        23.03525
+      ]
+    },
+    "west_rd_29": {
+      "name": "west_rd_29",
+      "coords": [
+        72.5449,
+        23.035375
+      ]
+    },
+    "west_rd_30": {
+      "name": "west_rd_30",
+      "coords": [
+        72.5449,
+        23.0355
+      ]
+    },
+    "ns1_rd_0": {
+      "name": "ns1_rd_0",
+      "coords": [
+        72.5461,
+        23.03278
+      ]
+    },
+    "ns1_rd_1": {
+      "name": "ns1_rd_1",
+      "coords": [
+        72.5461067,
+        23.0328867
+      ]
+    },
+    "ns1_rd_2": {
+      "name": "ns1_rd_2",
+      "coords": [
+        72.5461133,
+        23.0329933
+      ]
+    },
+    "ns1_rd_3": {
+      "name": "ns1_rd_3",
+      "coords": [
+        72.54612,
+        23.0331
+      ]
+    },
+    "ns1_rd_4": {
+      "name": "ns1_rd_4",
+      "coords": [
+        72.54612,
+        23.033225
+      ]
+    },
+    "ns1_rd_5": {
+      "name": "ns1_rd_5",
+      "coords": [
+        72.54612,
+        23.03335
+      ]
+    },
+    "ns1_rd_6": {
+      "name": "ns1_rd_6",
+      "coords": [
+        72.54612,
+        23.033475
+      ]
+    },
+    "ns1_rd_7": {
+      "name": "ns1_rd_7",
+      "coords": [
+        72.54612,
+        23.0336
+      ]
+    },
+    "ns1_rd_8": {
+      "name": "ns1_rd_8",
+      "coords": [
+        72.54612,
+        23.0337333
+      ]
+    },
+    "ns1_rd_9": {
+      "name": "ns1_rd_9",
+      "coords": [
+        72.54612,
+        23.0338667
+      ]
+    },
+    "ns1_rd_10": {
+      "name": "ns1_rd_10",
+      "coords": [
+        72.54612,
+        23.034
+      ]
+    },
+    "ns1_rd_11": {
+      "name": "ns1_rd_11",
+      "coords": [
+        72.5461133,
+        23.0341333
+      ]
+    },
+    "ns1_rd_12": {
+      "name": "ns1_rd_12",
+      "coords": [
+        72.5461067,
+        23.0342667
+      ]
+    },
+    "ns1_rd_13": {
+      "name": "ns1_rd_13",
+      "coords": [
+        72.5461,
+        23.0344
+      ]
+    },
+    "ns1_rd_14": {
+      "name": "ns1_rd_14",
+      "coords": [
+        72.5461,
+        23.0345333
+      ]
+    },
+    "ns1_rd_15": {
+      "name": "ns1_rd_15",
+      "coords": [
+        72.5461,
+        23.0346667
+      ]
+    },
+    "ns1_rd_16": {
+      "name": "ns1_rd_16",
+      "coords": [
+        72.5461,
+        23.0348
+      ]
+    },
+    "ns1_rd_17": {
+      "name": "ns1_rd_17",
+      "coords": [
+        72.5460975,
+        23.034925
+      ]
+    },
+    "ns1_rd_18": {
+      "name": "ns1_rd_18",
+      "coords": [
+        72.546095,
+        23.03505
+      ]
+    },
+    "ns1_rd_19": {
+      "name": "ns1_rd_19",
+      "coords": [
+        72.5460925,
+        23.035175
+      ]
+    },
+    "ns1_rd_20": {
+      "name": "ns1_rd_20",
+      "coords": [
+        72.54609,
+        23.0353
+      ]
+    },
+    "ns1_rd_21": {
+      "name": "ns1_rd_21",
+      "coords": [
+        72.54609,
+        23.035405
+      ]
+    },
+    "ns1_rd_22": {
+      "name": "ns1_rd_22",
+      "coords": [
+        72.54609,
+        23.03551
+      ]
+    },
+    "ns2_rd_0": {
+      "name": "ns2_rd_0",
+      "coords": [
+        72.5465,
+        23.03215
+      ]
+    },
+    "ns2_rd_1": {
+      "name": "ns2_rd_1",
+      "coords": [
+        72.5465,
+        23.0322667
+      ]
+    },
+    "ns2_rd_2": {
+      "name": "ns2_rd_2",
+      "coords": [
+        72.5465,
+        23.0323833
+      ]
+    },
+    "ns2_rd_3": {
+      "name": "ns2_rd_3",
+      "coords": [
+        72.5465,
+        23.0325
+      ]
+    },
+    "ns2_rd_4": {
+      "name": "ns2_rd_4",
+      "coords": [
+        72.546575,
+        23.03261
+      ]
+    },
+    "ns2_rd_5": {
+      "name": "ns2_rd_5",
+      "coords": [
+        72.54665,
+        23.03272
+      ]
+    },
+    "ns2_rd_6": {
+      "name": "ns2_rd_6",
+      "coords": [
+        72.54665,
+        23.0328467
+      ]
+    },
+    "ns2_rd_7": {
+      "name": "ns2_rd_7",
+      "coords": [
+        72.54665,
+        23.0329733
+      ]
+    },
+    "ns2_rd_8": {
+      "name": "ns2_rd_8",
+      "coords": [
+        72.54665,
+        23.0331
+      ]
+    },
+    "ns2_rd_9": {
+      "name": "ns2_rd_9",
+      "coords": [
+        72.5466375,
+        23.033225
+      ]
+    },
+    "ns2_rd_10": {
+      "name": "ns2_rd_10",
+      "coords": [
+        72.546625,
+        23.03335
+      ]
+    },
+    "ns2_rd_11": {
+      "name": "ns2_rd_11",
+      "coords": [
+        72.5466125,
+        23.033475
+      ]
+    },
+    "ns2_rd_12": {
+      "name": "ns2_rd_12",
+      "coords": [
+        72.5466,
+        23.0336
+      ]
+    },
+    "ns2_rd_13": {
+      "name": "ns2_rd_13",
+      "coords": [
+        72.5466,
+        23.0337333
+      ]
+    },
+    "ns2_rd_14": {
+      "name": "ns2_rd_14",
+      "coords": [
+        72.5466,
+        23.0338667
+      ]
+    },
+    "ns2_rd_15": {
+      "name": "ns2_rd_15",
+      "coords": [
+        72.5466,
+        23.034
+      ]
+    },
+    "ns2_rd_16": {
+      "name": "ns2_rd_16",
+      "coords": [
+        72.546575,
+        23.0341
+      ]
+    },
+    "ns2_rd_17": {
+      "name": "ns2_rd_17",
+      "coords": [
+        72.54655,
+        23.0342
+      ]
+    },
+    "ns2_rd_18": {
+      "name": "ns2_rd_18",
+      "coords": [
+        72.546525,
+        23.0343
+      ]
+    },
+    "ns2_rd_19": {
+      "name": "ns2_rd_19",
+      "coords": [
+        72.5465,
+        23.0344
+      ]
+    },
+    "ns2_rd_20": {
+      "name": "ns2_rd_20",
+      "coords": [
+        72.5465167,
+        23.0345333
+      ]
+    },
+    "ns2_rd_21": {
+      "name": "ns2_rd_21",
+      "coords": [
+        72.5465333,
+        23.0346667
+      ]
+    },
+    "ns2_rd_22": {
+      "name": "ns2_rd_22",
+      "coords": [
+        72.54655,
+        23.0348
+      ]
+    },
+    "ns2_rd_23": {
+      "name": "ns2_rd_23",
+      "coords": [
+        72.5465667,
+        23.0349333
+      ]
+    },
+    "ns2_rd_24": {
+      "name": "ns2_rd_24",
+      "coords": [
+        72.5465833,
+        23.0350667
+      ]
+    },
+    "ns2_rd_25": {
+      "name": "ns2_rd_25",
+      "coords": [
+        72.5466,
+        23.0352
+      ]
+    },
+    "ns2_rd_26": {
+      "name": "ns2_rd_26",
+      "coords": [
+        72.5466333,
+        23.0352933
+      ]
+    },
+    "ns2_rd_27": {
+      "name": "ns2_rd_27",
+      "coords": [
+        72.5466667,
+        23.0353867
+      ]
+    },
+    "ns2_rd_28": {
+      "name": "ns2_rd_28",
+      "coords": [
+        72.5467,
+        23.03548
+      ]
+    },
+    "ns3_rd_0": {
+      "name": "ns3_rd_0",
+      "coords": [
+        72.5471,
+        23.03265
+      ]
+    },
+    "ns3_rd_1": {
+      "name": "ns3_rd_1",
+      "coords": [
+        72.5471,
+        23.0327625
+      ]
+    },
+    "ns3_rd_2": {
+      "name": "ns3_rd_2",
+      "coords": [
+        72.5471,
+        23.032875
+      ]
+    },
+    "ns3_rd_3": {
+      "name": "ns3_rd_3",
+      "coords": [
+        72.5471,
+        23.0329875
+      ]
+    },
+    "ns3_rd_4": {
+      "name": "ns3_rd_4",
+      "coords": [
+        72.5471,
+        23.0331
+      ]
+    },
+    "ns3_rd_5": {
+      "name": "ns3_rd_5",
+      "coords": [
+        72.547125,
+        23.033225
+      ]
+    },
+    "ns3_rd_6": {
+      "name": "ns3_rd_6",
+      "coords": [
+        72.54715,
+        23.03335
+      ]
+    },
+    "ns3_rd_7": {
+      "name": "ns3_rd_7",
+      "coords": [
+        72.547175,
+        23.033475
+      ]
+    },
+    "ns3_rd_8": {
+      "name": "ns3_rd_8",
+      "coords": [
+        72.5472,
+        23.0336
+      ]
+    },
+    "ns3_rd_9": {
+      "name": "ns3_rd_9",
+      "coords": [
+        72.547225,
+        23.0337
+      ]
+    },
+    "ns3_rd_10": {
+      "name": "ns3_rd_10",
+      "coords": [
+        72.54725,
+        23.0338
+      ]
+    },
+    "ns3_rd_11": {
+      "name": "ns3_rd_11",
+      "coords": [
+        72.547275,
+        23.0339
+      ]
+    },
+    "ns3_rd_12": {
+      "name": "ns3_rd_12",
+      "coords": [
+        72.5473,
+        23.034
+      ]
+    },
+    "ns3_rd_13": {
+      "name": "ns3_rd_13",
+      "coords": [
+        72.5473,
+        23.0341333
+      ]
+    },
+    "ns3_rd_14": {
+      "name": "ns3_rd_14",
+      "coords": [
+        72.5473,
+        23.0342667
+      ]
+    },
+    "ns3_rd_15": {
+      "name": "ns3_rd_15",
+      "coords": [
+        72.5473,
+        23.0344
+      ]
+    },
+    "ns3_rd_16": {
+      "name": "ns3_rd_16",
+      "coords": [
+        72.5472967,
+        23.0345333
+      ]
+    },
+    "ns3_rd_17": {
+      "name": "ns3_rd_17",
+      "coords": [
+        72.5472933,
+        23.0346667
+      ]
+    },
+    "ns3_rd_18": {
+      "name": "ns3_rd_18",
+      "coords": [
+        72.54729,
+        23.0348
+      ]
+    },
+    "ns3_rd_19": {
+      "name": "ns3_rd_19",
+      "coords": [
+        72.54729,
+        23.034934
+      ]
+    },
+    "ns3_rd_20": {
+      "name": "ns3_rd_20",
+      "coords": [
+        72.54729,
+        23.035068
+      ]
+    },
+    "ns3_rd_21": {
+      "name": "ns3_rd_21",
+      "coords": [
+        72.54729,
+        23.035202
+      ]
+    },
+    "ns3_rd_22": {
+      "name": "ns3_rd_22",
+      "coords": [
+        72.54729,
+        23.035336
+      ]
+    },
+    "ns3_rd_23": {
+      "name": "ns3_rd_23",
+      "coords": [
+        72.54729,
+        23.03547
+      ]
+    },
+    "ns4_rd_0": {
+      "name": "ns4_rd_0",
+      "coords": [
+        72.548,
+        23.0326
+      ]
+    },
+    "ns4_rd_1": {
+      "name": "ns4_rd_1",
+      "coords": [
+        72.548,
+        23.0327333
+      ]
+    },
+    "ns4_rd_2": {
+      "name": "ns4_rd_2",
+      "coords": [
+        72.548,
+        23.0328667
+      ]
+    },
+    "ns4_rd_3": {
+      "name": "ns4_rd_3",
+      "coords": [
+        72.548,
+        23.033
+      ]
+    },
+    "ns4_rd_4": {
+      "name": "ns4_rd_4",
+      "coords": [
+        72.548,
+        23.033125
+      ]
+    },
+    "ns4_rd_5": {
+      "name": "ns4_rd_5",
+      "coords": [
+        72.548,
+        23.03325
+      ]
+    },
+    "ns4_rd_6": {
+      "name": "ns4_rd_6",
+      "coords": [
+        72.548,
+        23.033375
+      ]
+    },
+    "ns4_rd_7": {
+      "name": "ns4_rd_7",
+      "coords": [
+        72.548,
+        23.0335
+      ]
+    },
+    "ns4_rd_8": {
+      "name": "ns4_rd_8",
+      "coords": [
+        72.548025,
+        23.033625
+      ]
+    },
+    "ns4_rd_9": {
+      "name": "ns4_rd_9",
+      "coords": [
+        72.54805,
+        23.03375
+      ]
+    },
+    "ns4_rd_10": {
+      "name": "ns4_rd_10",
+      "coords": [
+        72.548075,
+        23.033875
+      ]
+    },
+    "ns4_rd_11": {
+      "name": "ns4_rd_11",
+      "coords": [
+        72.5481,
+        23.034
+      ]
+    },
+    "ns4_rd_12": {
+      "name": "ns4_rd_12",
+      "coords": [
+        72.5481,
+        23.0341333
+      ]
+    },
+    "ns4_rd_13": {
+      "name": "ns4_rd_13",
+      "coords": [
+        72.5481,
+        23.0342667
+      ]
+    },
+    "ns4_rd_14": {
+      "name": "ns4_rd_14",
+      "coords": [
+        72.5481,
+        23.0344
+      ]
+    },
+    "ns4_rd_15": {
+      "name": "ns4_rd_15",
+      "coords": [
+        72.5481,
+        23.034525
+      ]
+    },
+    "ns4_rd_16": {
+      "name": "ns4_rd_16",
+      "coords": [
+        72.5481,
+        23.03465
+      ]
+    },
+    "ns4_rd_17": {
+      "name": "ns4_rd_17",
+      "coords": [
+        72.5481,
+        23.034775
+      ]
+    },
+    "ns4_rd_18": {
+      "name": "ns4_rd_18",
+      "coords": [
+        72.5481,
+        23.0349
+      ]
+    },
+    "ns4_rd_19": {
+      "name": "ns4_rd_19",
+      "coords": [
+        72.54808,
+        23.0350267
+      ]
+    },
+    "ns4_rd_20": {
+      "name": "ns4_rd_20",
+      "coords": [
+        72.54806,
+        23.0351533
+      ]
+    },
+    "ns4_rd_21": {
+      "name": "ns4_rd_21",
+      "coords": [
+        72.54804,
+        23.03528
+      ]
+    },
+    "east_rd_0": {
+      "name": "east_rd_0",
+      "coords": [
+        72.5488,
+        23.0319
+      ]
+    },
+    "east_rd_1": {
+      "name": "east_rd_1",
+      "coords": [
+        72.5488,
+        23.032025
+      ]
+    },
+    "east_rd_2": {
+      "name": "east_rd_2",
+      "coords": [
+        72.5488,
+        23.03215
+      ]
+    },
+    "east_rd_3": {
+      "name": "east_rd_3",
+      "coords": [
+        72.5488,
+        23.0322575
+      ]
+    },
+    "east_rd_4": {
+      "name": "east_rd_4",
+      "coords": [
+        72.5488,
+        23.032365
+      ]
+    },
+    "east_rd_5": {
+      "name": "east_rd_5",
+      "coords": [
+        72.5488,
+        23.0324725
+      ]
+    },
+    "east_rd_6": {
+      "name": "east_rd_6",
+      "coords": [
+        72.5488,
+        23.03258
+      ]
+    },
+    "east_rd_7": {
+      "name": "east_rd_7",
+      "coords": [
+        72.5488,
+        23.032685
+      ]
+    },
+    "east_rd_8": {
+      "name": "east_rd_8",
+      "coords": [
+        72.5488,
+        23.03279
+      ]
+    },
+    "east_rd_9": {
+      "name": "east_rd_9",
+      "coords": [
+        72.5488,
+        23.032895
+      ]
+    },
+    "east_rd_10": {
+      "name": "east_rd_10",
+      "coords": [
+        72.5488,
+        23.033
+      ]
+    },
+    "east_rd_11": {
+      "name": "east_rd_11",
+      "coords": [
+        72.5487833,
+        23.0331333
+      ]
+    },
+    "east_rd_12": {
+      "name": "east_rd_12",
+      "coords": [
+        72.5487667,
+        23.0332667
+      ]
+    },
+    "east_rd_13": {
+      "name": "east_rd_13",
+      "coords": [
+        72.54875,
+        23.0334
+      ]
+    },
+    "east_rd_14": {
+      "name": "east_rd_14",
+      "coords": [
+        72.5487333,
+        23.0335333
+      ]
+    },
+    "east_rd_15": {
+      "name": "east_rd_15",
+      "coords": [
+        72.5487167,
+        23.0336667
+      ]
+    },
+    "east_rd_16": {
+      "name": "east_rd_16",
+      "coords": [
+        72.5487,
+        23.0338
+      ]
+    },
+    "east_rd_17": {
+      "name": "east_rd_17",
+      "coords": [
+        72.548645,
+        23.0339125
+      ]
+    },
+    "east_rd_18": {
+      "name": "east_rd_18",
+      "coords": [
+        72.54859,
+        23.034025
+      ]
+    },
+    "east_rd_19": {
+      "name": "east_rd_19",
+      "coords": [
+        72.548535,
+        23.0341375
+      ]
+    },
+    "east_rd_20": {
+      "name": "east_rd_20",
+      "coords": [
+        72.54848,
+        23.03425
+      ]
+    },
+    "east_rd_21": {
+      "name": "east_rd_21",
+      "coords": [
+        72.5485533,
+        23.0343667
+      ]
+    },
+    "east_rd_22": {
+      "name": "east_rd_22",
+      "coords": [
+        72.5486267,
+        23.0344833
+      ]
+    },
+    "east_rd_23": {
+      "name": "east_rd_23",
+      "coords": [
+        72.5487,
+        23.0346
+      ]
+    },
+    "east_rd_24": {
+      "name": "east_rd_24",
+      "coords": [
+        72.5487,
+        23.034725
+      ]
+    },
+    "east_rd_25": {
+      "name": "east_rd_25",
+      "coords": [
+        72.5487,
+        23.03485
+      ]
+    },
+    "east_rd_26": {
+      "name": "east_rd_26",
+      "coords": [
+        72.5487,
+        23.034975
+      ]
+    },
+    "east_rd_27": {
+      "name": "east_rd_27",
+      "coords": [
+        72.5487,
+        23.0351
+      ]
+    },
+    "east_rd_28": {
+      "name": "east_rd_28",
+      "coords": [
+        72.5487,
+        23.03519
+      ]
+    },
+    "east_rd_29": {
+      "name": "east_rd_29",
+      "coords": [
+        72.5487,
+        23.03528
+      ]
+    },
+    "far_east_0": {
+      "name": "far_east_0",
+      "coords": [
+        72.5488,
+        23.03258
+      ]
+    },
+    "far_east_1": {
+      "name": "far_east_1",
+      "coords": [
+        72.5489,
+        23.0326533
+      ]
+    },
+    "far_east_2": {
+      "name": "far_east_2",
+      "coords": [
+        72.549,
+        23.0327267
+      ]
+    },
+    "far_east_3": {
+      "name": "far_east_3",
+      "coords": [
+        72.5491,
+        23.0328
+      ]
+    },
+    "far_east_4": {
+      "name": "far_east_4",
+      "coords": [
+        72.549125,
+        23.0329
+      ]
+    },
+    "far_east_5": {
+      "name": "far_east_5",
+      "coords": [
+        72.54915,
+        23.033
+      ]
+    },
+    "far_east_6": {
+      "name": "far_east_6",
+      "coords": [
+        72.549175,
+        23.0331
+      ]
+    },
+    "far_east_7": {
+      "name": "far_east_7",
+      "coords": [
+        72.5492,
+        23.0332
+      ]
+    },
+    "far_east_8": {
+      "name": "far_east_8",
+      "coords": [
+        72.5492,
+        23.0333333
+      ]
+    },
+    "far_east_9": {
+      "name": "far_east_9",
+      "coords": [
+        72.5492,
+        23.0334667
+      ]
+    },
+    "far_east_10": {
+      "name": "far_east_10",
+      "coords": [
+        72.5492,
+        23.0336
+      ]
+    },
+    "far_east_11": {
+      "name": "far_east_11",
+      "coords": [
+        72.549175,
+        23.0337
+      ]
+    },
+    "far_east_12": {
+      "name": "far_east_12",
+      "coords": [
+        72.54915,
+        23.0338
+      ]
+    },
+    "far_east_13": {
+      "name": "far_east_13",
+      "coords": [
+        72.549125,
+        23.0339
+      ]
+    },
+    "far_east_14": {
+      "name": "far_east_14",
+      "coords": [
+        72.5491,
+        23.034
+      ]
+    },
+    "far_east_15": {
+      "name": "far_east_15",
+      "coords": [
+        72.549025,
+        23.0341
+      ]
+    },
+    "far_east_16": {
+      "name": "far_east_16",
+      "coords": [
+        72.54895,
+        23.0342
+      ]
+    },
+    "far_east_17": {
+      "name": "far_east_17",
+      "coords": [
+        72.548875,
+        23.0343
+      ]
+    },
+    "far_east_18": {
+      "name": "far_east_18",
+      "coords": [
+        72.5488,
+        23.0344
+      ]
+    },
+    "po_lane_0": {
+      "name": "po_lane_0",
+      "coords": [
+        72.5464,
+        23.0344
+      ]
+    },
+    "po_lane_1": {
+      "name": "po_lane_1",
+      "coords": [
+        72.5464,
+        23.034275
+      ]
+    },
+    "po_lane_2": {
+      "name": "po_lane_2",
+      "coords": [
+        72.5464,
+        23.03415
+      ]
+    },
+    "po_lane_3": {
+      "name": "po_lane_3",
+      "coords": [
+        72.5464,
+        23.03405
+      ]
+    },
+    "po_lane_4": {
+      "name": "po_lane_4",
+      "coords": [
+        72.5464,
+        23.03395
+      ]
+    },
+    "po_lane_5": {
+      "name": "po_lane_5",
+      "coords": [
+        72.5464,
+        23.033825
+      ]
+    },
+    "po_lane_6": {
+      "name": "po_lane_6",
+      "coords": [
+        72.5464,
+        23.0337
+      ]
+    },
+    "ws_lane_0": {
+      "name": "ws_lane_0",
+      "coords": [
+        72.5449,
+        23.03295
+      ]
+    },
+    "ws_lane_1": {
+      "name": "ws_lane_1",
+      "coords": [
+        72.5450333,
+        23.033
+      ]
+    },
+    "ws_lane_2": {
+      "name": "ws_lane_2",
+      "coords": [
+        72.5451667,
+        23.03305
+      ]
+    },
+    "ws_lane_3": {
+      "name": "ws_lane_3",
+      "coords": [
+        72.5453,
+        23.0331
+      ]
+    },
+    "ws_lane_4": {
+      "name": "ws_lane_4",
+      "coords": [
+        72.545425,
+        23.0331
+      ]
+    },
+    "ws_lane_5": {
+      "name": "ws_lane_5",
+      "coords": [
+        72.54555,
+        23.0331
+      ]
+    },
+    "ws_lane_6": {
+      "name": "ws_lane_6",
+      "coords": [
+        72.545675,
+        23.0331
+      ]
+    },
+    "ws_lane_7": {
+      "name": "ws_lane_7",
+      "coords": [
+        72.5458,
+        23.0331
+      ]
+    },
+    "cl_lane_0": {
+      "name": "cl_lane_0",
+      "coords": [
+        72.54609,
+        23.03551
+      ]
+    },
+    "cl_lane_1": {
+      "name": "cl_lane_1",
+      "coords": [
+        72.5460925,
+        23.0356325
+      ]
+    },
+    "cl_lane_2": {
+      "name": "cl_lane_2",
+      "coords": [
+        72.546095,
+        23.035755
+      ]
+    },
+    "cl_lane_3": {
+      "name": "cl_lane_3",
+      "coords": [
+        72.5460975,
+        23.0358775
+      ]
+    },
+    "cl_lane_4": {
+      "name": "cl_lane_4",
+      "coords": [
+        72.5461,
+        23.036
+      ]
+    },
+    "cl_lane_5": {
+      "name": "cl_lane_5",
+      "coords": [
+        72.54612,
+        23.03612
+      ]
+    },
+    "cl_lane_6": {
+      "name": "cl_lane_6",
+      "coords": [
+        72.54614,
+        23.03624
+      ]
+    },
+    "cl_lane_7": {
+      "name": "cl_lane_7",
+      "coords": [
+        72.54616,
+        23.03636
+      ]
+    },
+    "cl_lane_8": {
+      "name": "cl_lane_8",
+      "coords": [
+        72.54618,
+        23.03648
+      ]
+    },
+    "cl_lane_9": {
+      "name": "cl_lane_9",
+      "coords": [
+        72.5462,
+        23.0366
+      ]
+    },
+    "cl_lane_10": {
+      "name": "cl_lane_10",
+      "coords": [
+        72.546275,
+        23.0367125
+      ]
+    },
+    "cl_lane_11": {
+      "name": "cl_lane_11",
+      "coords": [
+        72.54635,
+        23.036825
+      ]
+    },
+    "cl_lane_12": {
+      "name": "cl_lane_12",
+      "coords": [
+        72.546425,
+        23.0369375
+      ]
+    },
+    "cl_lane_13": {
+      "name": "cl_lane_13",
+      "coords": [
+        72.5465,
+        23.03705
+      ]
+    },
+    "mid_rd_0": {
+      "name": "mid_rd_0",
+      "coords": [
+        72.54612,
+        23.0339
+      ]
+    },
+    "mid_rd_1": {
+      "name": "mid_rd_1",
+      "coords": [
+        72.54626,
+        23.0339
+      ]
+    },
+    "mid_rd_2": {
+      "name": "mid_rd_2",
+      "coords": [
+        72.5464,
+        23.0339
+      ]
+    },
+    "mid_rd_3": {
+      "name": "mid_rd_3",
+      "coords": [
+        72.546525,
+        23.03385
+      ]
+    },
+    "mid_rd_4": {
+      "name": "mid_rd_4",
+      "coords": [
+        72.54665,
+        23.0338
+      ]
+    },
+    "mid_rd_5": {
+      "name": "mid_rd_5",
+      "coords": [
+        72.5467667,
+        23.0337833
+      ]
+    },
+    "mid_rd_6": {
+      "name": "mid_rd_6",
+      "coords": [
+        72.5468833,
+        23.0337667
+      ]
+    },
+    "mid_rd_7": {
+      "name": "mid_rd_7",
+      "coords": [
+        72.547,
+        23.03375
+      ]
+    },
+    "mid_rd_8": {
+      "name": "mid_rd_8",
+      "coords": [
+        72.5471,
+        23.0338
+      ]
+    },
+    "mid_rd_9": {
+      "name": "mid_rd_9",
+      "coords": [
+        72.5472,
+        23.03385
+      ]
+    },
+    "mid_rd_10": {
+      "name": "mid_rd_10",
+      "coords": [
+        72.5473,
+        23.0339
+      ]
+    },
+    "mid_rd_11": {
+      "name": "mid_rd_11",
+      "coords": [
+        72.5474333,
+        23.0339
+      ]
+    },
+    "mid_rd_12": {
+      "name": "mid_rd_12",
+      "coords": [
+        72.5475667,
+        23.0339
+      ]
+    },
+    "mid_rd_13": {
+      "name": "mid_rd_13",
+      "coords": [
+        72.5477,
+        23.0339
+      ]
+    },
+    "mid_rd_14": {
+      "name": "mid_rd_14",
+      "coords": [
+        72.5478333,
+        23.0339167
+      ]
+    },
+    "mid_rd_15": {
+      "name": "mid_rd_15",
+      "coords": [
+        72.5479667,
+        23.0339333
+      ]
+    },
+    "mid_rd_16": {
+      "name": "mid_rd_16",
+      "coords": [
+        72.5481,
+        23.03395
+      ]
+    },
+    "mid_rd_17": {
+      "name": "mid_rd_17",
+      "coords": [
+        72.5482267,
+        23.0339667
+      ]
+    },
+    "mid_rd_18": {
+      "name": "mid_rd_18",
+      "coords": [
+        72.5483533,
+        23.0339833
+      ]
+    },
+    "mid_rd_19": {
+      "name": "mid_rd_19",
+      "coords": [
+        72.54848,
+        23.034
+      ]
+    },
+    "user_rd_0": {
+      "name": "user_rd_0",
+      "coords": [
+        72.544929,
+        23.03292
+      ]
+    },
+    "user_rd_1": {
+      "name": "user_rd_1",
+      "coords": [
+        72.5450633,
+        23.0329363
+      ]
+    },
+    "user_rd_2": {
+      "name": "user_rd_2",
+      "coords": [
+        72.5451977,
+        23.0329527
+      ]
+    },
+    "user_rd_3": {
+      "name": "user_rd_3",
+      "coords": [
+        72.545332,
+        23.032969
+      ]
+    },
+    "user_rd_4": {
+      "name": "user_rd_4",
+      "coords": [
+        72.54536,
+        23.0328455
+      ]
+    },
+    "user_rd_5": {
+      "name": "user_rd_5",
+      "coords": [
+        72.545388,
+        23.032722
+      ]
+    },
+    "user_rd_6": {
+      "name": "user_rd_6",
+      "coords": [
+        72.5454036,
+        23.032614
+      ]
+    },
+    "user_rd_7": {
+      "name": "user_rd_7",
+      "coords": [
+        72.5454192,
+        23.032506
+      ]
+    },
+    "user_rd_8": {
+      "name": "user_rd_8",
+      "coords": [
+        72.5454348,
+        23.032398
+      ]
+    },
+    "user_rd_9": {
+      "name": "user_rd_9",
+      "coords": [
+        72.5454504,
+        23.03229
+      ]
+    },
+    "user_rd_10": {
+      "name": "user_rd_10",
+      "coords": [
+        72.545466,
+        23.032182
+      ]
+    },
+    "user_rd_11": {
+      "name": "user_rd_11",
+      "coords": [
+        72.545514,
+        23.032157
+      ]
+    },
+    "user_rd_12": {
+      "name": "user_rd_12",
+      "coords": [
+        72.5456248,
+        23.0321663
+      ]
+    },
+    "user_rd_13": {
+      "name": "user_rd_13",
+      "coords": [
+        72.5457355,
+        23.0321755
+      ]
+    },
+    "user_rd_14": {
+      "name": "user_rd_14",
+      "coords": [
+        72.5458462,
+        23.0321847
+      ]
+    },
+    "user_rd_15": {
+      "name": "user_rd_15",
+      "coords": [
+        72.545957,
+        23.032194
+      ]
+    },
+    "user_rd_16": {
+      "name": "user_rd_16",
+      "coords": [
+        72.546083,
+        23.0322057
+      ]
+    },
+    "user_rd_17": {
+      "name": "user_rd_17",
+      "coords": [
+        72.546209,
+        23.0322175
+      ]
+    },
+    "user_rd_18": {
+      "name": "user_rd_18",
+      "coords": [
+        72.546335,
+        23.0322293
+      ]
+    },
+    "user_rd_19": {
+      "name": "user_rd_19",
+      "coords": [
+        72.546461,
+        23.032241
+      ]
+    },
+    "canteen": {
+      "name": "LD College Canteen",
+      "coords": [
+        72.546693,
+        23.032719
+      ]
+    },
+    "chemical_dept": {
+      "name": "Chemical Department",
+      "coords": [
+        72.54501,
+        23.034113
+      ]
+    },
+    "civil_dept": {
+      "name": "Civil Department",
+      "coords": [
+        72.546655,
+        23.035429
+      ]
+    },
+    "civil_drawing_hall": {
+      "name": "Civil Drawing Hall",
+      "coords": [
+        72.547117,
+        23.034264
+      ]
+    },
+    "civil_lawn": {
+      "name": "Civil Lawn",
+      "coords": [
+        72.546668,
+        23.037053
+      ]
+    },
+    "computer_dept": {
+      "name": "Computer Department",
+      "coords": [
+        72.548482,
+        23.033786
+      ]
+    },
+    "cricket_ground": {
+      "name": "Cricket Ground",
+      "coords": [
+        72.545315,
+        23.034945
+      ]
+    },
+    "ec_dept": {
+      "name": "EC Department",
+      "coords": [
+        72.54501,
+        23.034113
+      ]
+    },
+    "hostel_a": {
+      "name": "Boys Hostel Block A",
+      "coords": [
+        72.547661,
+        23.03223
+      ]
+    },
+    "hostel_b": {
+      "name": "Boys Hostel Block B",
+      "coords": [
+        72.546158,
+        23.032031
+      ]
+    },
+    "hostel_e": {
+      "name": "Boys Hostel Block E",
+      "coords": [
+        72.546199,
+        23.031512
+      ]
+    },
+    "ic_dept": {
+      "name": "IC Department",
+      "coords": [
+        72.547758,
+        23.035303
+      ]
+    },
+    "lrc_library": {
+      "name": "LRC Library Block",
+      "coords": [
+        72.547451,
+        23.035789
+      ]
+    },
+    "nss_office": {
+      "name": "NSS Office",
+      "coords": [
+        72.548953,
+        23.032992
+      ]
+    },
+    "plastic_dept": {
+      "name": "Plastic Department",
+      "coords": [
+        72.54501,
+        23.034113
+      ]
+    },
+    "principle_office": {
+      "name": "Principal Office",
+      "coords": [
+        72.546597,
+        23.033847
+      ]
+    },
+    "rabdi_tea_stall": {
+      "name": "Rabdi Tea Stall",
+      "coords": [
+        72.548704,
+        23.034152
+      ]
+    },
+    "rubber_dept": {
+      "name": "Rubber Department",
+      "coords": [
+        72.547708,
+        23.036164
+      ]
+    },
+    "student_store": {
+      "name": "Student Store",
+      "coords": [
+        72.547017,
+        23.035545
+      ]
+    },
+    "textile_dept": {
+      "name": "Textile Department",
+      "coords": [
+        72.545544,
+        23.03266
+      ]
+    },
+    "vishwakarma_hall": {
+      "name": "Vishwakarma Hall",
+      "coords": [
+        72.548239,
+        23.036114
+      ]
+    },
+    "anexee_building": {
+      "name": "Anexee Building",
+      "coords": [
+        72.544991,
+        23.033043
+      ]
+    },
+    "applied_mechanics": {
+      "name": "Applied Mechanics",
+      "coords": [
+        72.546064,
+        23.033505
+      ]
+    },
+    "academic_block_1": {
+      "name": "Academic Block 1",
+      "coords": [
+        72.54875,
+        23.03505
+      ]
+    },
+    "academic_block_2": {
+      "name": "Academic Block 2",
+      "coords": [
+        72.5491,
+        23.03435
+      ]
+    },
+    "academic_block_3": {
+      "name": "Academic Block 3",
+      "coords": [
+        72.5486,
+        23.0332
+      ]
+    },
+    "academic_block_9": {
+      "name": "Academic Block 9",
+      "coords": [
+        72.5485,
+        23.03255
+      ]
+    },
+    "workshop": {
+      "name": "Workshop",
+      "coords": [
+        72.5458,
+        23.0331
+      ]
+    }
+  },
+  "edges": [
+    [
+      "main_rd_0",
+      "main_rd_1",
+      10
+    ],
+    [
+      "main_rd_1",
+      "main_rd_2",
+      10
+    ],
+    [
+      "main_rd_2",
+      "main_rd_3",
+      10
+    ],
+    [
+      "main_rd_3",
+      "main_rd_4",
+      14
+    ],
+    [
+      "main_rd_4",
+      "main_rd_5",
+      14
+    ],
+    [
+      "main_rd_5",
+      "main_rd_6",
+      14
+    ],
+    [
+      "main_rd_6",
+      "main_rd_7",
+      14
+    ],
+    [
+      "main_rd_7",
+      "main_rd_8",
+      14
+    ],
+    [
+      "main_rd_8",
+      "main_rd_9",
+      14
+    ],
+    [
+      "main_rd_9",
+      "main_rd_10",
+      14
+    ],
+    [
+      "main_rd_10",
+      "main_rd_11",
+      14
+    ],
+    [
+      "main_rd_11",
+      "main_rd_12",
+      14
+    ],
+    [
+      "main_rd_12",
+      "main_rd_13",
+      14
+    ],
+    [
+      "main_rd_13",
+      "main_rd_14",
+      10
+    ],
+    [
+      "main_rd_14",
+      "main_rd_15",
+      10
+    ],
+    [
+      "main_rd_15",
+      "main_rd_16",
+      10
+    ],
+    [
+      "main_rd_16",
+      "main_rd_17",
+      13
+    ],
+    [
+      "main_rd_17",
+      "main_rd_18",
+      13
+    ],
+    [
+      "main_rd_18",
+      "main_rd_19",
+      13
+    ],
+    [
+      "main_rd_19",
+      "main_rd_20",
+      13
+    ],
+    [
+      "main_rd_20",
+      "main_rd_21",
+      14
+    ],
+    [
+      "main_rd_21",
+      "main_rd_22",
+      14
+    ],
+    [
+      "main_rd_22",
+      "main_rd_23",
+      14
+    ],
+    [
+      "main_rd_23",
+      "main_rd_24",
+      14
+    ],
+    [
+      "main_rd_24",
+      "main_rd_25",
+      14
+    ],
+    [
+      "main_rd_25",
+      "main_rd_26",
+      14
+    ],
+    [
+      "main_rd_26",
+      "main_rd_27",
+      13
+    ],
+    [
+      "main_rd_27",
+      "main_rd_28",
+      13
+    ],
+    [
+      "main_rd_28",
+      "main_rd_29",
+      13
+    ],
+    [
+      "main_rd_29",
+      "main_rd_30",
+      12
+    ],
+    [
+      "main_rd_30",
+      "main_rd_31",
+      12
+    ],
+    [
+      "main_rd_31",
+      "main_rd_32",
+      12
+    ],
+    [
+      "north_rd_0",
+      "north_rd_1",
+      14
+    ],
+    [
+      "north_rd_1",
+      "north_rd_2",
+      14
+    ],
+    [
+      "north_rd_2",
+      "north_rd_3",
+      14
+    ],
+    [
+      "north_rd_3",
+      "north_rd_4",
+      13
+    ],
+    [
+      "north_rd_4",
+      "north_rd_5",
+      13
+    ],
+    [
+      "north_rd_5",
+      "north_rd_6",
+      13
+    ],
+    [
+      "north_rd_6",
+      "north_rd_7",
+      13
+    ],
+    [
+      "north_rd_7",
+      "north_rd_8",
+      13
+    ],
+    [
+      "north_rd_8",
+      "north_rd_9",
+      13
+    ],
+    [
+      "north_rd_9",
+      "north_rd_10",
+      13
+    ],
+    [
+      "north_rd_10",
+      "north_rd_11",
+      13
+    ],
+    [
+      "north_rd_11",
+      "north_rd_12",
+      13
+    ],
+    [
+      "north_rd_12",
+      "north_rd_13",
+      13
+    ],
+    [
+      "north_rd_13",
+      "north_rd_14",
+      13
+    ],
+    [
+      "north_rd_14",
+      "north_rd_15",
+      12
+    ],
+    [
+      "north_rd_15",
+      "north_rd_16",
+      12
+    ],
+    [
+      "north_rd_16",
+      "north_rd_17",
+      12
+    ],
+    [
+      "north_rd_17",
+      "north_rd_18",
+      12
+    ],
+    [
+      "north_rd_18",
+      "north_rd_19",
+      12
+    ],
+    [
+      "north_rd_19",
+      "north_rd_20",
+      13
+    ],
+    [
+      "north_rd_20",
+      "north_rd_21",
+      13
+    ],
+    [
+      "north_rd_21",
+      "north_rd_22",
+      13
+    ],
+    [
+      "north_rd_22",
+      "north_rd_23",
+      13
+    ],
+    [
+      "north_rd_23",
+      "north_rd_24",
+      13
+    ],
+    [
+      "north_rd_24",
+      "north_rd_25",
+      13
+    ],
+    [
+      "north_rd_25",
+      "north_rd_26",
+      14
+    ],
+    [
+      "north_rd_26",
+      "north_rd_27",
+      14
+    ],
+    [
+      "north_rd_27",
+      "north_rd_28",
+      14
+    ],
+    [
+      "north_rd_28",
+      "north_rd_29",
+      14
+    ],
+    [
+      "north_rd_29",
+      "north_rd_30",
+      14
+    ],
+    [
+      "hostel_rd_0",
+      "hostel_rd_1",
+      12
+    ],
+    [
+      "hostel_rd_1",
+      "hostel_rd_2",
+      12
+    ],
+    [
+      "hostel_rd_2",
+      "hostel_rd_3",
+      12
+    ],
+    [
+      "hostel_rd_3",
+      "hostel_rd_4",
+      12
+    ],
+    [
+      "hostel_rd_4",
+      "hostel_rd_5",
+      11
+    ],
+    [
+      "hostel_rd_5",
+      "hostel_rd_6",
+      11
+    ],
+    [
+      "hostel_rd_6",
+      "hostel_rd_7",
+      11
+    ],
+    [
+      "hostel_rd_7",
+      "hostel_rd_8",
+      12
+    ],
+    [
+      "hostel_rd_8",
+      "hostel_rd_9",
+      12
+    ],
+    [
+      "hostel_rd_9",
+      "hostel_rd_10",
+      12
+    ],
+    [
+      "hostel_rd_10",
+      "hostel_rd_11",
+      12
+    ],
+    [
+      "hostel_rd_11",
+      "hostel_rd_12",
+      14
+    ],
+    [
+      "hostel_rd_12",
+      "hostel_rd_13",
+      14
+    ],
+    [
+      "hostel_rd_13",
+      "hostel_rd_14",
+      14
+    ],
+    [
+      "hostel_rd_14",
+      "hostel_rd_15",
+      12
+    ],
+    [
+      "hostel_rd_15",
+      "hostel_rd_16",
+      12
+    ],
+    [
+      "hostel_rd_16",
+      "hostel_rd_17",
+      12
+    ],
+    [
+      "hostel_rd_17",
+      "hostel_rd_18",
+      12
+    ],
+    [
+      "hostel_rd_18",
+      "hostel_rd_19",
+      12
+    ],
+    [
+      "hostel_rd_19",
+      "hostel_rd_20",
+      12
+    ],
+    [
+      "hostel_rd_20",
+      "hostel_rd_21",
+      12
+    ],
+    [
+      "ur_spur_0",
+      "ur_spur_1",
+      9
+    ],
+    [
+      "ur_spur_1",
+      "ur_spur_2",
+      9
+    ],
+    [
+      "ur_spur_2",
+      "ur_spur_3",
+      9
+    ],
+    [
+      "ur_spur_3",
+      "ur_spur_4",
+      9
+    ],
+    [
+      "ur_spur_4",
+      "ur_spur_5",
+      8
+    ],
+    [
+      "ur_spur_5",
+      "ur_spur_6",
+      8
+    ],
+    [
+      "ur_spur_6",
+      "ur_spur_7",
+      10
+    ],
+    [
+      "south_rd_0",
+      "south_rd_1",
+      13
+    ],
+    [
+      "south_rd_1",
+      "south_rd_2",
+      13
+    ],
+    [
+      "south_rd_2",
+      "south_rd_3",
+      13
+    ],
+    [
+      "south_rd_3",
+      "south_rd_4",
+      13
+    ],
+    [
+      "south_rd_4",
+      "south_rd_5",
+      12
+    ],
+    [
+      "south_rd_5",
+      "south_rd_6",
+      12
+    ],
+    [
+      "south_rd_6",
+      "south_rd_7",
+      12
+    ],
+    [
+      "south_rd_7",
+      "south_rd_8",
+      12
+    ],
+    [
+      "south_rd_8",
+      "south_rd_9",
+      12
+    ],
+    [
+      "south_rd_9",
+      "south_rd_10",
+      12
+    ],
+    [
+      "south_rd_10",
+      "south_rd_11",
+      12
+    ],
+    [
+      "south_rd_11",
+      "south_rd_12",
+      12
+    ],
+    [
+      "south_rd_12",
+      "south_rd_13",
+      12
+    ],
+    [
+      "south_rd_13",
+      "south_rd_14",
+      14
+    ],
+    [
+      "south_rd_14",
+      "south_rd_15",
+      14
+    ],
+    [
+      "south_rd_15",
+      "south_rd_16",
+      14
+    ],
+    [
+      "south_rd_16",
+      "south_rd_17",
+      14
+    ],
+    [
+      "south_rd_17",
+      "south_rd_18",
+      12
+    ],
+    [
+      "south_rd_18",
+      "south_rd_19",
+      12
+    ],
+    [
+      "south_rd_19",
+      "south_rd_20",
+      12
+    ],
+    [
+      "south_rd_20",
+      "south_rd_21",
+      12
+    ],
+    [
+      "south_rd_21",
+      "south_rd_22",
+      12
+    ],
+    [
+      "south_rd_22",
+      "south_rd_23",
+      14
+    ],
+    [
+      "south_rd_23",
+      "south_rd_24",
+      14
+    ],
+    [
+      "south_rd_24",
+      "south_rd_25",
+      14
+    ],
+    [
+      "west_rd_0",
+      "west_rd_1",
+      14
+    ],
+    [
+      "west_rd_1",
+      "west_rd_2",
+      14
+    ],
+    [
+      "west_rd_2",
+      "west_rd_3",
+      13
+    ],
+    [
+      "west_rd_3",
+      "west_rd_4",
+      13
+    ],
+    [
+      "west_rd_4",
+      "west_rd_5",
+      13
+    ],
+    [
+      "west_rd_5",
+      "west_rd_6",
+      13
+    ],
+    [
+      "west_rd_6",
+      "west_rd_7",
+      13
+    ],
+    [
+      "west_rd_7",
+      "west_rd_8",
+      14
+    ],
+    [
+      "west_rd_8",
+      "west_rd_9",
+      14
+    ],
+    [
+      "west_rd_9",
+      "west_rd_10",
+      14
+    ],
+    [
+      "west_rd_10",
+      "west_rd_11",
+      14
+    ],
+    [
+      "west_rd_11",
+      "west_rd_12",
+      13
+    ],
+    [
+      "west_rd_12",
+      "west_rd_13",
+      13
+    ],
+    [
+      "west_rd_13",
+      "west_rd_14",
+      13
+    ],
+    [
+      "west_rd_14",
+      "west_rd_15",
+      13
+    ],
+    [
+      "west_rd_15",
+      "west_rd_16",
+      13
+    ],
+    [
+      "west_rd_16",
+      "west_rd_17",
+      15
+    ],
+    [
+      "west_rd_17",
+      "west_rd_18",
+      15
+    ],
+    [
+      "west_rd_18",
+      "west_rd_19",
+      15
+    ],
+    [
+      "west_rd_19",
+      "west_rd_20",
+      12
+    ],
+    [
+      "west_rd_20",
+      "west_rd_21",
+      12
+    ],
+    [
+      "west_rd_21",
+      "west_rd_22",
+      12
+    ],
+    [
+      "west_rd_22",
+      "west_rd_23",
+      12
+    ],
+    [
+      "west_rd_23",
+      "west_rd_24",
+      15
+    ],
+    [
+      "west_rd_24",
+      "west_rd_25",
+      15
+    ],
+    [
+      "west_rd_25",
+      "west_rd_26",
+      15
+    ],
+    [
+      "west_rd_26",
+      "west_rd_27",
+      14
+    ],
+    [
+      "west_rd_27",
+      "west_rd_28",
+      14
+    ],
+    [
+      "west_rd_28",
+      "west_rd_29",
+      14
+    ],
+    [
+      "west_rd_29",
+      "west_rd_30",
+      14
+    ],
+    [
+      "ns1_rd_0",
+      "ns1_rd_1",
+      12
+    ],
+    [
+      "ns1_rd_1",
+      "ns1_rd_2",
+      12
+    ],
+    [
+      "ns1_rd_2",
+      "ns1_rd_3",
+      12
+    ],
+    [
+      "ns1_rd_3",
+      "ns1_rd_4",
+      14
+    ],
+    [
+      "ns1_rd_4",
+      "ns1_rd_5",
+      14
+    ],
+    [
+      "ns1_rd_5",
+      "ns1_rd_6",
+      14
+    ],
+    [
+      "ns1_rd_6",
+      "ns1_rd_7",
+      14
+    ],
+    [
+      "ns1_rd_7",
+      "ns1_rd_8",
+      15
+    ],
+    [
+      "ns1_rd_8",
+      "ns1_rd_9",
+      15
+    ],
+    [
+      "ns1_rd_9",
+      "ns1_rd_10",
+      15
+    ],
+    [
+      "ns1_rd_10",
+      "ns1_rd_11",
+      15
+    ],
+    [
+      "ns1_rd_11",
+      "ns1_rd_12",
+      15
+    ],
+    [
+      "ns1_rd_12",
+      "ns1_rd_13",
+      15
+    ],
+    [
+      "ns1_rd_13",
+      "ns1_rd_14",
+      15
+    ],
+    [
+      "ns1_rd_14",
+      "ns1_rd_15",
+      15
+    ],
+    [
+      "ns1_rd_15",
+      "ns1_rd_16",
+      15
+    ],
+    [
+      "ns1_rd_16",
+      "ns1_rd_17",
+      14
+    ],
+    [
+      "ns1_rd_17",
+      "ns1_rd_18",
+      14
+    ],
+    [
+      "ns1_rd_18",
+      "ns1_rd_19",
+      14
+    ],
+    [
+      "ns1_rd_19",
+      "ns1_rd_20",
+      14
+    ],
+    [
+      "ns1_rd_20",
+      "ns1_rd_21",
+      12
+    ],
+    [
+      "ns1_rd_21",
+      "ns1_rd_22",
+      12
+    ],
+    [
+      "ns2_rd_0",
+      "ns2_rd_1",
+      13
+    ],
+    [
+      "ns2_rd_1",
+      "ns2_rd_2",
+      13
+    ],
+    [
+      "ns2_rd_2",
+      "ns2_rd_3",
+      13
+    ],
+    [
+      "ns2_rd_3",
+      "ns2_rd_4",
+      14
+    ],
+    [
+      "ns2_rd_4",
+      "ns2_rd_5",
+      14
+    ],
+    [
+      "ns2_rd_5",
+      "ns2_rd_6",
+      14
+    ],
+    [
+      "ns2_rd_6",
+      "ns2_rd_7",
+      14
+    ],
+    [
+      "ns2_rd_7",
+      "ns2_rd_8",
+      14
+    ],
+    [
+      "ns2_rd_8",
+      "ns2_rd_9",
+      14
+    ],
+    [
+      "ns2_rd_9",
+      "ns2_rd_10",
+      14
+    ],
+    [
+      "ns2_rd_10",
+      "ns2_rd_11",
+      14
+    ],
+    [
+      "ns2_rd_11",
+      "ns2_rd_12",
+      14
+    ],
+    [
+      "ns2_rd_12",
+      "ns2_rd_13",
+      15
+    ],
+    [
+      "ns2_rd_13",
+      "ns2_rd_14",
+      15
+    ],
+    [
+      "ns2_rd_14",
+      "ns2_rd_15",
+      15
+    ],
+    [
+      "ns2_rd_15",
+      "ns2_rd_16",
+      11
+    ],
+    [
+      "ns2_rd_16",
+      "ns2_rd_17",
+      11
+    ],
+    [
+      "ns2_rd_17",
+      "ns2_rd_18",
+      11
+    ],
+    [
+      "ns2_rd_18",
+      "ns2_rd_19",
+      11
+    ],
+    [
+      "ns2_rd_19",
+      "ns2_rd_20",
+      15
+    ],
+    [
+      "ns2_rd_20",
+      "ns2_rd_21",
+      15
+    ],
+    [
+      "ns2_rd_21",
+      "ns2_rd_22",
+      15
+    ],
+    [
+      "ns2_rd_22",
+      "ns2_rd_23",
+      15
+    ],
+    [
+      "ns2_rd_23",
+      "ns2_rd_24",
+      15
+    ],
+    [
+      "ns2_rd_24",
+      "ns2_rd_25",
+      15
+    ],
+    [
+      "ns2_rd_25",
+      "ns2_rd_26",
+      11
+    ],
+    [
+      "ns2_rd_26",
+      "ns2_rd_27",
+      11
+    ],
+    [
+      "ns2_rd_27",
+      "ns2_rd_28",
+      11
+    ],
+    [
+      "ns3_rd_0",
+      "ns3_rd_1",
+      13
+    ],
+    [
+      "ns3_rd_1",
+      "ns3_rd_2",
+      13
+    ],
+    [
+      "ns3_rd_2",
+      "ns3_rd_3",
+      13
+    ],
+    [
+      "ns3_rd_3",
+      "ns3_rd_4",
+      13
+    ],
+    [
+      "ns3_rd_4",
+      "ns3_rd_5",
+      14
+    ],
+    [
+      "ns3_rd_5",
+      "ns3_rd_6",
+      14
+    ],
+    [
+      "ns3_rd_6",
+      "ns3_rd_7",
+      14
+    ],
+    [
+      "ns3_rd_7",
+      "ns3_rd_8",
+      14
+    ],
+    [
+      "ns3_rd_8",
+      "ns3_rd_9",
+      11
+    ],
+    [
+      "ns3_rd_9",
+      "ns3_rd_10",
+      11
+    ],
+    [
+      "ns3_rd_10",
+      "ns3_rd_11",
+      11
+    ],
+    [
+      "ns3_rd_11",
+      "ns3_rd_12",
+      11
+    ],
+    [
+      "ns3_rd_12",
+      "ns3_rd_13",
+      15
+    ],
+    [
+      "ns3_rd_13",
+      "ns3_rd_14",
+      15
+    ],
+    [
+      "ns3_rd_14",
+      "ns3_rd_15",
+      15
+    ],
+    [
+      "ns3_rd_15",
+      "ns3_rd_16",
+      15
+    ],
+    [
+      "ns3_rd_16",
+      "ns3_rd_17",
+      15
+    ],
+    [
+      "ns3_rd_17",
+      "ns3_rd_18",
+      15
+    ],
+    [
+      "ns3_rd_18",
+      "ns3_rd_19",
+      15
+    ],
+    [
+      "ns3_rd_19",
+      "ns3_rd_20",
+      15
+    ],
+    [
+      "ns3_rd_20",
+      "ns3_rd_21",
+      15
+    ],
+    [
+      "ns3_rd_21",
+      "ns3_rd_22",
+      15
+    ],
+    [
+      "ns3_rd_22",
+      "ns3_rd_23",
+      15
+    ],
+    [
+      "ns4_rd_0",
+      "ns4_rd_1",
+      15
+    ],
+    [
+      "ns4_rd_1",
+      "ns4_rd_2",
+      15
+    ],
+    [
+      "ns4_rd_2",
+      "ns4_rd_3",
+      15
+    ],
+    [
+      "ns4_rd_3",
+      "ns4_rd_4",
+      14
+    ],
+    [
+      "ns4_rd_4",
+      "ns4_rd_5",
+      14
+    ],
+    [
+      "ns4_rd_5",
+      "ns4_rd_6",
+      14
+    ],
+    [
+      "ns4_rd_6",
+      "ns4_rd_7",
+      14
+    ],
+    [
+      "ns4_rd_7",
+      "ns4_rd_8",
+      14
+    ],
+    [
+      "ns4_rd_8",
+      "ns4_rd_9",
+      14
+    ],
+    [
+      "ns4_rd_9",
+      "ns4_rd_10",
+      14
+    ],
+    [
+      "ns4_rd_10",
+      "ns4_rd_11",
+      14
+    ],
+    [
+      "ns4_rd_11",
+      "ns4_rd_12",
+      15
+    ],
+    [
+      "ns4_rd_12",
+      "ns4_rd_13",
+      15
+    ],
+    [
+      "ns4_rd_13",
+      "ns4_rd_14",
+      15
+    ],
+    [
+      "ns4_rd_14",
+      "ns4_rd_15",
+      14
+    ],
+    [
+      "ns4_rd_15",
+      "ns4_rd_16",
+      14
+    ],
+    [
+      "ns4_rd_16",
+      "ns4_rd_17",
+      14
+    ],
+    [
+      "ns4_rd_17",
+      "ns4_rd_18",
+      14
+    ],
+    [
+      "ns4_rd_18",
+      "ns4_rd_19",
+      14
+    ],
+    [
+      "ns4_rd_19",
+      "ns4_rd_20",
+      14
+    ],
+    [
+      "ns4_rd_20",
+      "ns4_rd_21",
+      14
+    ],
+    [
+      "east_rd_0",
+      "east_rd_1",
+      14
+    ],
+    [
+      "east_rd_1",
+      "east_rd_2",
+      14
+    ],
+    [
+      "east_rd_2",
+      "east_rd_3",
+      12
+    ],
+    [
+      "east_rd_3",
+      "east_rd_4",
+      12
+    ],
+    [
+      "east_rd_4",
+      "east_rd_5",
+      12
+    ],
+    [
+      "east_rd_5",
+      "east_rd_6",
+      12
+    ],
+    [
+      "east_rd_6",
+      "east_rd_7",
+      12
+    ],
+    [
+      "east_rd_7",
+      "east_rd_8",
+      12
+    ],
+    [
+      "east_rd_8",
+      "east_rd_9",
+      12
+    ],
+    [
+      "east_rd_9",
+      "east_rd_10",
+      12
+    ],
+    [
+      "east_rd_10",
+      "east_rd_11",
+      15
+    ],
+    [
+      "east_rd_11",
+      "east_rd_12",
+      15
+    ],
+    [
+      "east_rd_12",
+      "east_rd_13",
+      15
+    ],
+    [
+      "east_rd_13",
+      "east_rd_14",
+      15
+    ],
+    [
+      "east_rd_14",
+      "east_rd_15",
+      15
+    ],
+    [
+      "east_rd_15",
+      "east_rd_16",
+      15
+    ],
+    [
+      "east_rd_16",
+      "east_rd_17",
+      14
+    ],
+    [
+      "east_rd_17",
+      "east_rd_18",
+      14
+    ],
+    [
+      "east_rd_18",
+      "east_rd_19",
+      14
+    ],
+    [
+      "east_rd_19",
+      "east_rd_20",
+      14
+    ],
+    [
+      "east_rd_20",
+      "east_rd_21",
+      15
+    ],
+    [
+      "east_rd_21",
+      "east_rd_22",
+      15
+    ],
+    [
+      "east_rd_22",
+      "east_rd_23",
+      15
+    ],
+    [
+      "east_rd_23",
+      "east_rd_24",
+      14
+    ],
+    [
+      "east_rd_24",
+      "east_rd_25",
+      14
+    ],
+    [
+      "east_rd_25",
+      "east_rd_26",
+      14
+    ],
+    [
+      "east_rd_26",
+      "east_rd_27",
+      14
+    ],
+    [
+      "east_rd_27",
+      "east_rd_28",
+      10
+    ],
+    [
+      "east_rd_28",
+      "east_rd_29",
+      10
+    ],
+    [
+      "far_east_0",
+      "far_east_1",
+      13
+    ],
+    [
+      "far_east_1",
+      "far_east_2",
+      13
+    ],
+    [
+      "far_east_2",
+      "far_east_3",
+      13
+    ],
+    [
+      "far_east_3",
+      "far_east_4",
+      11
+    ],
+    [
+      "far_east_4",
+      "far_east_5",
+      11
+    ],
+    [
+      "far_east_5",
+      "far_east_6",
+      11
+    ],
+    [
+      "far_east_6",
+      "far_east_7",
+      11
+    ],
+    [
+      "far_east_7",
+      "far_east_8",
+      15
+    ],
+    [
+      "far_east_8",
+      "far_east_9",
+      15
+    ],
+    [
+      "far_east_9",
+      "far_east_10",
+      15
+    ],
+    [
+      "far_east_10",
+      "far_east_11",
+      11
+    ],
+    [
+      "far_east_11",
+      "far_east_12",
+      11
+    ],
+    [
+      "far_east_12",
+      "far_east_13",
+      11
+    ],
+    [
+      "far_east_13",
+      "far_east_14",
+      11
+    ],
+    [
+      "far_east_14",
+      "far_east_15",
+      14
+    ],
+    [
+      "far_east_15",
+      "far_east_16",
+      14
+    ],
+    [
+      "far_east_16",
+      "far_east_17",
+      14
+    ],
+    [
+      "far_east_17",
+      "far_east_18",
+      14
+    ],
+    [
+      "po_lane_0",
+      "po_lane_1",
+      14
+    ],
+    [
+      "po_lane_1",
+      "po_lane_2",
+      14
+    ],
+    [
+      "po_lane_2",
+      "po_lane_3",
+      11
+    ],
+    [
+      "po_lane_3",
+      "po_lane_4",
+      11
+    ],
+    [
+      "po_lane_4",
+      "po_lane_5",
+      14
+    ],
+    [
+      "po_lane_5",
+      "po_lane_6",
+      14
+    ],
+    [
+      "ws_lane_0",
+      "ws_lane_1",
+      15
+    ],
+    [
+      "ws_lane_1",
+      "ws_lane_2",
+      15
+    ],
+    [
+      "ws_lane_2",
+      "ws_lane_3",
+      15
+    ],
+    [
+      "ws_lane_3",
+      "ws_lane_4",
+      13
+    ],
+    [
+      "ws_lane_4",
+      "ws_lane_5",
+      13
+    ],
+    [
+      "ws_lane_5",
+      "ws_lane_6",
+      13
+    ],
+    [
+      "ws_lane_6",
+      "ws_lane_7",
+      13
+    ],
+    [
+      "cl_lane_0",
+      "cl_lane_1",
+      14
+    ],
+    [
+      "cl_lane_1",
+      "cl_lane_2",
+      14
+    ],
+    [
+      "cl_lane_2",
+      "cl_lane_3",
+      14
+    ],
+    [
+      "cl_lane_3",
+      "cl_lane_4",
+      14
+    ],
+    [
+      "cl_lane_4",
+      "cl_lane_5",
+      13
+    ],
+    [
+      "cl_lane_5",
+      "cl_lane_6",
+      13
+    ],
+    [
+      "cl_lane_6",
+      "cl_lane_7",
+      13
+    ],
+    [
+      "cl_lane_7",
+      "cl_lane_8",
+      13
+    ],
+    [
+      "cl_lane_8",
+      "cl_lane_9",
+      13
+    ],
+    [
+      "cl_lane_9",
+      "cl_lane_10",
+      15
+    ],
+    [
+      "cl_lane_10",
+      "cl_lane_11",
+      15
+    ],
+    [
+      "cl_lane_11",
+      "cl_lane_12",
+      15
+    ],
+    [
+      "cl_lane_12",
+      "cl_lane_13",
+      15
+    ],
+    [
+      "mid_rd_0",
+      "mid_rd_1",
+      14
+    ],
+    [
+      "mid_rd_1",
+      "mid_rd_2",
+      14
+    ],
+    [
+      "mid_rd_2",
+      "mid_rd_3",
+      14
+    ],
+    [
+      "mid_rd_3",
+      "mid_rd_4",
+      14
+    ],
+    [
+      "mid_rd_4",
+      "mid_rd_5",
+      12
+    ],
+    [
+      "mid_rd_5",
+      "mid_rd_6",
+      12
+    ],
+    [
+      "mid_rd_6",
+      "mid_rd_7",
+      12
+    ],
+    [
+      "mid_rd_7",
+      "mid_rd_8",
+      12
+    ],
+    [
+      "mid_rd_8",
+      "mid_rd_9",
+      12
+    ],
+    [
+      "mid_rd_9",
+      "mid_rd_10",
+      12
+    ],
+    [
+      "mid_rd_10",
+      "mid_rd_11",
+      14
+    ],
+    [
+      "mid_rd_11",
+      "mid_rd_12",
+      14
+    ],
+    [
+      "mid_rd_12",
+      "mid_rd_13",
+      14
+    ],
+    [
+      "mid_rd_13",
+      "mid_rd_14",
+      14
+    ],
+    [
+      "mid_rd_14",
+      "mid_rd_15",
+      14
+    ],
+    [
+      "mid_rd_15",
+      "mid_rd_16",
+      14
+    ],
+    [
+      "mid_rd_16",
+      "mid_rd_17",
+      13
+    ],
+    [
+      "mid_rd_17",
+      "mid_rd_18",
+      13
+    ],
+    [
+      "mid_rd_18",
+      "mid_rd_19",
+      13
+    ],
+    [
+      "user_rd_0",
+      "user_rd_1",
+      14
+    ],
+    [
+      "user_rd_1",
+      "user_rd_2",
+      14
+    ],
+    [
+      "user_rd_2",
+      "user_rd_3",
+      14
+    ],
+    [
+      "user_rd_3",
+      "user_rd_4",
+      14
+    ],
+    [
+      "user_rd_4",
+      "user_rd_5",
+      14
+    ],
+    [
+      "user_rd_5",
+      "user_rd_6",
+      12
+    ],
+    [
+      "user_rd_6",
+      "user_rd_7",
+      12
+    ],
+    [
+      "user_rd_7",
+      "user_rd_8",
+      12
+    ],
+    [
+      "user_rd_8",
+      "user_rd_9",
+      12
+    ],
+    [
+      "user_rd_9",
+      "user_rd_10",
+      12
+    ],
+    [
+      "user_rd_10",
+      "user_rd_11",
+      6
+    ],
+    [
+      "user_rd_11",
+      "user_rd_12",
+      11
+    ],
+    [
+      "user_rd_12",
+      "user_rd_13",
+      11
+    ],
+    [
+      "user_rd_13",
+      "user_rd_14",
+      11
+    ],
+    [
+      "user_rd_14",
+      "user_rd_15",
+      11
+    ],
+    [
+      "user_rd_15",
+      "user_rd_16",
+      13
+    ],
+    [
+      "user_rd_16",
+      "user_rd_17",
+      13
+    ],
+    [
+      "user_rd_17",
+      "user_rd_18",
+      13
+    ],
+    [
+      "user_rd_18",
+      "user_rd_19",
+      13
+    ],
+    [
+      "main_rd_0",
+      "west_rd_19",
+      0
+    ],
+    [
+      "main_rd_10",
+      "ns1_rd_13",
+      0
+    ],
+    [
+      "main_rd_13",
+      "ns2_rd_19",
+      0
+    ],
+    [
+      "main_rd_20",
+      "ns3_rd_15",
+      0
+    ],
+    [
+      "main_rd_26",
+      "ns4_rd_14",
+      6
+    ],
+    [
+      "main_rd_29",
+      "east_rd_20",
+      0
+    ],
+    [
+      "main_rd_32",
+      "far_east_18",
+      0
+    ],
+    [
+      "main_rd_12",
+      "po_lane_0",
+      3
+    ],
+    [
+      "main_rd_29",
+      "mid_rd_19",
+      28
+    ],
+    [
+      "north_rd_0",
+      "west_rd_30",
+      0
+    ],
+    [
+      "north_rd_9",
+      "ns1_rd_22",
+      0
+    ],
+    [
+      "north_rd_14",
+      "ns2_rd_28",
+      0
+    ],
+    [
+      "north_rd_19",
+      "ns3_rd_23",
+      0
+    ],
+    [
+      "north_rd_25",
+      "ns4_rd_21",
+      0
+    ],
+    [
+      "north_rd_30",
+      "east_rd_28",
+      1
+    ],
+    [
+      "north_rd_9",
+      "cl_lane_0",
+      0
+    ],
+    [
+      "hostel_rd_0",
+      "ur_spur_0",
+      0
+    ],
+    [
+      "hostel_rd_0",
+      "south_rd_13",
+      10
+    ],
+    [
+      "hostel_rd_0",
+      "ns2_rd_1",
+      5
+    ],
+    [
+      "hostel_rd_7",
+      "ns3_rd_0",
+      0
+    ],
+    [
+      "hostel_rd_14",
+      "ns4_rd_0",
+      0
+    ],
+    [
+      "hostel_rd_21",
+      "east_rd_6",
+      4
+    ],
+    [
+      "hostel_rd_21",
+      "far_east_0",
+      4
+    ],
+    [
+      "hostel_rd_0",
+      "user_rd_19",
+      0
+    ],
+    [
+      "ur_spur_0",
+      "south_rd_13",
+      10
+    ],
+    [
+      "ur_spur_5",
+      "ns2_rd_4",
+      1
+    ],
+    [
+      "ur_spur_0",
+      "user_rd_19",
+      0
+    ],
+    [
+      "south_rd_0",
+      "west_rd_2",
+      0
+    ],
+    [
+      "south_rd_13",
+      "ns2_rd_0",
+      5
+    ],
+    [
+      "south_rd_5",
+      "user_rd_11",
+      1
+    ],
+    [
+      "west_rd_10",
+      "ws_lane_2",
+      7
+    ],
+    [
+      "west_rd_9",
+      "user_rd_1",
+      4
+    ],
+    [
+      "ns1_rd_8",
+      "po_lane_6",
+      29
+    ],
+    [
+      "ns1_rd_22",
+      "cl_lane_0",
+      0
+    ],
+    [
+      "ns1_rd_9",
+      "mid_rd_0",
+      4
+    ],
+    [
+      "ns2_rd_19",
+      "po_lane_0",
+      10
+    ],
+    [
+      "ns2_rd_14",
+      "mid_rd_3",
+      8
+    ],
+    [
+      "ns2_rd_1",
+      "user_rd_19",
+      5
+    ],
+    [
+      "ns3_rd_11",
+      "mid_rd_10",
+      3
+    ],
+    [
+      "ns4_rd_11",
+      "mid_rd_16",
+      6
+    ],
+    [
+      "east_rd_6",
+      "far_east_0",
+      0
+    ],
+    [
+      "east_rd_18",
+      "mid_rd_19",
+      12
+    ],
+    [
+      "po_lane_4",
+      "mid_rd_2",
+      6
+    ],
+    [
+      "ws_lane_0",
+      "user_rd_0",
+      4
+    ],
+    [
+      "canteen",
+      "ur_spur_7",
+      0
+    ],
+    [
+      "canteen",
+      "ns2_rd_5",
+      4
+    ],
+    [
+      "chemical_dept",
+      "main_rd_1",
+      5
+    ],
+    [
+      "chemical_dept",
+      "west_rd_18",
+      9
+    ],
+    [
+      "civil_dept",
+      "ns2_rd_27",
+      5
+    ],
+    [
+      "civil_dept",
+      "north_rd_14",
+      7
+    ],
+    [
+      "civil_drawing_hall",
+      "main_rd_19",
+      16
+    ],
+    [
+      "civil_drawing_hall",
+      "main_rd_18",
+      17
+    ],
+    [
+      "civil_lawn",
+      "cl_lane_13",
+      17
+    ],
+    [
+      "civil_lawn",
+      "cl_lane_12",
+      28
+    ],
+    [
+      "computer_dept",
+      "east_rd_17",
+      22
+    ],
+    [
+      "computer_dept",
+      "east_rd_16",
+      22
+    ],
+    [
+      "cricket_ground",
+      "west_rd_26",
+      43
+    ],
+    [
+      "cricket_ground",
+      "west_rd_25",
+      43
+    ],
+    [
+      "ec_dept",
+      "main_rd_1",
+      5
+    ],
+    [
+      "ec_dept",
+      "west_rd_18",
+      9
+    ],
+    [
+      "hostel_a",
+      "south_rd_22",
+      7
+    ],
+    [
+      "hostel_a",
+      "south_rd_23",
+      8
+    ],
+    [
+      "hostel_b",
+      "south_rd_10",
+      14
+    ],
+    [
+      "hostel_b",
+      "south_rd_11",
+      15
+    ],
+    [
+      "hostel_e",
+      "south_rd_11",
+      71
+    ],
+    [
+      "hostel_e",
+      "south_rd_10",
+      71
+    ],
+    [
+      "ic_dept",
+      "north_rd_23",
+      6
+    ],
+    [
+      "ic_dept",
+      "north_rd_22",
+      12
+    ],
+    [
+      "lrc_library",
+      "north_rd_19",
+      39
+    ],
+    [
+      "lrc_library",
+      "ns3_rd_23",
+      39
+    ],
+    [
+      "nss_office",
+      "east_rd_10",
+      16
+    ],
+    [
+      "nss_office",
+      "east_rd_9",
+      19
+    ],
+    [
+      "plastic_dept",
+      "main_rd_1",
+      5
+    ],
+    [
+      "plastic_dept",
+      "west_rd_18",
+      9
+    ],
+    [
+      "principle_office",
+      "ns2_rd_14",
+      2
+    ],
+    [
+      "principle_office",
+      "mid_rd_3",
+      7
+    ],
+    [
+      "rabdi_tea_stall",
+      "east_rd_19",
+      17
+    ],
+    [
+      "rabdi_tea_stall",
+      "east_rd_18",
+      18
+    ],
+    [
+      "rubber_dept",
+      "north_rd_21",
+      86
+    ],
+    [
+      "rubber_dept",
+      "north_rd_20",
+      86
+    ],
+    [
+      "student_store",
+      "north_rd_17",
+      9
+    ],
+    [
+      "student_store",
+      "north_rd_16",
+      11
+    ],
+    [
+      "textile_dept",
+      "user_rd_6",
+      15
+    ],
+    [
+      "textile_dept",
+      "user_rd_5",
+      17
+    ],
+    [
+      "vishwakarma_hall",
+      "north_rd_26",
+      95
+    ],
+    [
+      "vishwakarma_hall",
+      "north_rd_25",
+      95
+    ],
+    [
+      "anexee_building",
+      "ws_lane_1",
+      6
+    ],
+    [
+      "anexee_building",
+      "west_rd_10",
+      12
+    ],
+    [
+      "applied_mechanics",
+      "ns1_rd_6",
+      7
+    ],
+    [
+      "applied_mechanics",
+      "ns1_rd_7",
+      12
+    ],
+    [
+      "academic_block_1",
+      "east_rd_27",
+      8
+    ],
+    [
+      "academic_block_1",
+      "east_rd_26",
+      10
+    ],
+    [
+      "academic_block_2",
+      "far_east_16",
+      23
+    ],
+    [
+      "academic_block_2",
+      "far_east_17",
+      24
+    ],
+    [
+      "academic_block_3",
+      "east_rd_12",
+      19
+    ],
+    [
+      "academic_block_3",
+      "east_rd_11",
+      20
+    ],
+    [
+      "academic_block_9",
+      "hostel_rd_18",
+      6
+    ],
+    [
+      "academic_block_9",
+      "hostel_rd_19",
+      8
+    ],
+    [
+      "workshop",
+      "ws_lane_7",
+      0
+    ],
+    [
+      "workshop",
+      "ws_lane_6",
+      13
+    ]
+  ]
+}

@@ -1,0 +1,57 @@
+/* frontend/src/components/Home/Home.css */
+.home-container {
+    text-align: center;
+}
+
+.home-header {
+    background-color: transparent;
+    margin-bottom: 2rem;
+}
+
+.home-header p {
+    margin-top: 0.5rem;
+    font-size: 1.1rem;
+    color: #6c757d;
+}
+
+.features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+}
+
+.feature-card {
+    background: var(--white);
+    padding: 1.5rem;
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    text-decoration: none;
+    color: var(--text-color);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.feature-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+.feature-card h2 {
+    margin-top: 0;
+    color: var(--primary-color);
+}
+
+/* --- Responsive --- */
+@media screen and (max-width: 768px) {
+    .home-header {
+        margin-bottom: 1.5rem;
+    }
+
+    .features-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    .feature-card {
+        padding: 1.25rem;
+    }
+}
